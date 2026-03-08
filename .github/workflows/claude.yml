@@ -45,5 +45,8 @@ jobs:
             Bash(git commit*)
             Bash(git push*)
             Bash(git checkout*)
+            Read
+            Write
+            Edit
           show_full_output: true
 
