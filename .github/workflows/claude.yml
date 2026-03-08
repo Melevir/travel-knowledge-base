@@ -48,5 +48,6 @@ jobs:
             Read
             Write
             Edit
+            WebSearch
           show_full_output: true
 
