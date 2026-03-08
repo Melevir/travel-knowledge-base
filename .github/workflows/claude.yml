@@ -36,4 +36,5 @@ jobs:
           prompt: '/work'
 
           claude_args: '--allowedTools Bash(gh issue list*)'
+          show_full_output: true
 
