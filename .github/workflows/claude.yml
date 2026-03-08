@@ -9,11 +9,11 @@ jobs:
   claude:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pull-requests: read
-      issues: read
+      contents: write
+      pull-requests: write
+      issues: write
       id-token: write
-      actions: read # Required for Claude to read CI results on PRs
+      actions: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,6 +35,15 @@ jobs:
           # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
           prompt: '/work'
 
-          claude_args: '--allowedTools Bash(gh issue list*)'
+          claude_args: >-
+            --allowedTools
+            Bash(gh issue list*)
+            Bash(gh issue view*)
+            Bash(gh issue comment*)
+            Bash(gh pr create*)
+            Bash(git add*)
+            Bash(git commit*)
+            Bash(git push*)
+            Bash(git checkout*)
           show_full_output: true
 

@@ -1,3 +1,8 @@
-Fetch all open issues from this GitHub repository and display them as a list.
+Run `gh issue list --state open --json number,title,body,labels` to fetch active issues.
+Pick one of them.
 
-Run `gh issue list --state open --json number,title,body,labels` and print the results.
+Check if the task has implementation plan as a comment. If no plan is there, generate it and post
+as a comment to the issue.
+
+Next, implement the plan and create a pull request linked to the ticket.
+
