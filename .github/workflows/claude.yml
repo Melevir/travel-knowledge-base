@@ -35,5 +35,5 @@ jobs:
           # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
           prompt: '/work'
 
-          allowed_tools: 'Bash(gh issue list*)'
+          claude_args: '--allowedTools Bash(gh issue list*)'
 
