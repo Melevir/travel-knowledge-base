@@ -1,8 +1,8 @@
-name: Claude Code
+name: Claude Refactor
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -33,22 +33,15 @@ jobs:
           additional_permissions: |
             actions: read
 
-          # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
-          prompt: '/work'
+          prompt: '/refactor'
 
           claude_args: >-
             --allowedTools
-            Bash(gh issue list*)
-            Bash(gh issue view*)
-            Bash(gh issue comment*)
+            Bash(git *)
             Bash(gh pr create*)
-            Bash(git add*)
-            Bash(git commit*)
-            Bash(git push*)
-            Bash(git checkout*)
             Read
             Write
             Edit
-            WebSearch
+            Glob
+            Grep
           show_full_output: true
-

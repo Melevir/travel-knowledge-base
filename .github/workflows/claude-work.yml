@@ -1,0 +1,54 @@
+name: Claude Work
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  claude:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+      id-token: write
+      actions: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run Claude Code
+        id: claude
+        uses: anthropics/claude-code-action@v1
+        env:
+          GH_TOKEN: ${{ github.token }}
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          allowed_bots: 'claude'
+
+          # This is an optional setting that allows Claude to read CI results on PRs
+          additional_permissions: |
+            actions: read
+
+          # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
+          prompt: '/work'
+
+          claude_args: >-
+            --allowedTools
+            Bash(gh issue list*)
+            Bash(gh issue view*)
+            Bash(gh issue comment*)
+            Bash(gh pr create*)
+            Bash(git add*)
+            Bash(git commit*)
+            Bash(git push*)
+            Bash(git checkout*)
+            Read
+            Write
+            Edit
+            WebSearch
+          show_full_output: true
+
