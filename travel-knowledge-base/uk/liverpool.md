@@ -42,16 +42,16 @@
 
 | Место | Часы (ориентир) | Рейтинг | Вход | Время |
 |---|---|---|---|---|
-| **Royal Albert Dock** | Территория круглосуточно; музеи 10:00–17:00 | 4.5/5 | Бесплатно (территория) | 2–4 ч |
-| **Liverpool Cathedral** | Ежедневно ~08:00–18:00 | 4.7/5 | Бесплатно; башня ~£6–8.50 | 1–2 ч |
-| **Metropolitan Cathedral** | Будни 07:30–18:00, вс до 17:00 | 4.5/5 | Бесплатно | 30–60 мин |
-| **The Beatles Story** | 09:00–19:00 (лето), 10:00–18:00 (зима) | 4.5/5 | ~£18–20 | 2–2.5 ч |
-| **Walker Art Gallery** | Ежедневно 10:00–17:00 | 4.6/5 | Бесплатно | 1–2 ч |
-| **Museum of Liverpool** | Ежедневно 10:00–17:00 | 4.4/5 | Бесплатно | 1.5–2 ч |
-| **World Museum** | Ежедневно 10:00–17:00 | 4.5/5 | Бесплатно | 1.5–2 ч |
-| **International Slavery Museum** | Ежедневно 10:00–17:00 | 4.4/5 | Бесплатно | 1–1.5 ч |
-| **St George's Hall** | По расписанию экскурсий | 4.5/5 | Бесплатно / экскурсии ~£5–7 | 1 ч |
-| **Tate Liverpool** | Ежедневно 10:00–17:00 | 4.3/5 | Бесплатно (осн. коллекция) | 1–2 ч |
+| **Royal Albert Dock** | Территория круглосуточно; музеи 10:00–17:00 | ★★★★½ | Бесплатно (территория) | 2–4 ч |
+| **Liverpool Cathedral** | Ежедневно ~08:00–18:00 | ★★★★★ | Бесплатно; башня ~£6–8.50 | 1–2 ч |
+| **Metropolitan Cathedral** | Будни 07:30–18:00, вс до 17:00 | ★★★★½ | Бесплатно | 30–60 мин |
+| **The Beatles Story** | 09:00–19:00 (лето), 10:00–18:00 (зима) | ★★★★½ | ~£18–20 | 2–2.5 ч |
+| **Walker Art Gallery** | Ежедневно 10:00–17:00 | ★★★★½ | Бесплатно | 1–2 ч |
+| **Museum of Liverpool** | Ежедневно 10:00–17:00 | ★★★★☆ | Бесплатно | 1.5–2 ч |
+| **World Museum** | Ежедневно 10:00–17:00 | ★★★★½ | Бесплатно | 1.5–2 ч |
+| **International Slavery Museum** | Ежедневно 10:00–17:00 | ★★★★☆ | Бесплатно | 1–1.5 ч |
+| **St George's Hall** | По расписанию экскурсий | ★★★★½ | Бесплатно / экскурсии ~£5–7 | 1 ч |
+| **Tate Liverpool** | Ежедневно 10:00–17:00 | ★★★★☆ | Бесплатно (осн. коллекция) | 1–2 ч |
 
 **Royal Albert Dock** (1846) — первые в мире доки без дерева (чугун, кирпич, камень), крупнейший комплекс Grade I listed в Великобритании. Здесь сосредоточены Beatles Story, Tate Liverpool, International Slavery Museum и Maritime Museum.
 
@@ -67,10 +67,10 @@
 
 | Место | Рейтинг | Время | Примечание |
 |---|---|---|---|
-| **Sefton Park** | 4.6/5 | 1–2 ч | 93 га; Palm House (1896), озеро, Peter Pan Statue, гроты |
-| **Calderstones Park** | 4.6/5 | 1–1.5 ч | Allerton Oak (~1000 лет), мегалиты (4000+ лет), японский сад |
-| **Princes Park** | 4.2/5 | 45–90 мин | Дизайн Joseph Paxton; вдохновил Central Park в Нью-Йорке |
-| **Crosby Beach / Another Place** | 4.4/5 | 1–2 ч | 100 чугунных фигур Antony Gormley; лучше при отливе и на закате |
+| **Sefton Park** | ★★★★½ | 1–2 ч | 93 га; Palm House (1896), озеро, Peter Pan Statue, гроты |
+| **Calderstones Park** | ★★★★½ | 1–1.5 ч | Allerton Oak (~1000 лет), мегалиты (4000+ лет), японский сад |
+| **Princes Park** | ★★★★☆ | 45–90 мин | Дизайн Joseph Paxton; вдохновил Central Park в Нью-Йорке |
+| **Crosby Beach / Another Place** | ★★★★☆ | 1–2 ч | 100 чугунных фигур Antony Gormley; лучше при отливе и на закате |
 | **St James' Cemetery** | — | 30–60 мин | Кладбище в каменоломне за Liverpool Cathedral; атмосферное место |
 
 **Смотровые площадки:**
@@ -89,10 +89,11 @@
 - **Anfield Stadium Tour**: экскурсия по стадиону Liverpool FC
 - **Liverpool Waterfront Walk**: Pier Head → Albert Dock → King's Dock (~2–3 км)
 - **Hope Street Walk**: между двумя соборами (~800 м), мимо Philharmonic Hall, Everyman Theatre и паба The Phil
+- **Ночная жизнь**: Mathew Street — Beatles Quarter с Cavern Club и живой музыкой; Concert Square / Ropewalks — Heebie Jeebies, Arts Club; Baltic Triangle — 24 Kitchen Street, Constellations, Camp and Furnace; Berry & Rye (Berry St) — speakeasy с коктейлями высокого уровня
 
 ### Хидден джемс
 
-1. **The Bluecoat** (School Lane, 4.4/5) — старейшее здание в центре (1717). Арт-центр, галерея, кафе. Бесплатно
+1. **The Bluecoat** (School Lane, ★★★★☆) — старейшее здание в центре (1717). Арт-центр, галерея, кафе. Бесплатно
 2. **St Luke's Church (Bombed Out Church)** — руины церкви, разрушенной в Блиц 1941 г. Намеренно не восстановлена как мемориал; арт-пространство
 3. **Western Approaches HQ** — секретный подземный бункер WWII, откуда координировали Битву за Атлантику. Оригинальная обстановка (~£8–10)
 4. **Williamson Tunnels** (Edge Hill) — загадочные туннели XIX в., построенные эксцентричным бизнесменом Joseph Williamson. Экскурсии ~£6–8
@@ -129,14 +130,14 @@
 
 | Место | Основан | Рейтинг | Примечание |
 |---|---|---|---|
-| **Ye Hole in Ye Wall** | ~1726 | 4.2/5 | Старейший паб Ливерпуля; спрятан в переулке |
-| **The Philharmonic Dining Rooms** | 1898 | 4.6/5 | Art Nouveau, Grade I listed; знаменитые мраморные туалеты |
-| **Peter Kavanagh's** | ~1840-е | 4.5/5 | Эклектичный интерьер: витражи, антиквариат; Georgian Quarter |
-| **The Baltic Fleet** | ~1840-е | 4.3/5 | Flatiron building у Albert Dock; собственная Wapping Brewery |
-| **Thomas Rigby's** | XVII–XVIII в. | 4.3/5 | Красивый пивной двор; традиционные эли и сидр |
-| **The Roscoe Head** | — | 4.4/5 | В каждом Good Beer Guide с 1974 г.; назван в честь аболициониста |
-| **The Lion Tavern** | ~1880-е | 4.3/5 | Оригинальный викторианский интерьер, витражи; Grade II listed |
-| **The Vines (Big House)** | 1907 | 4.2/5 | Барочный интерьер напротив Lime Street Station |
+| **Ye Hole in Ye Wall** | ~1726 | ★★★★☆ | Старейший паб Ливерпуля; спрятан в переулке |
+| **The Philharmonic Dining Rooms** | 1898 | ★★★★½ | Art Nouveau, Grade I listed; знаменитые мраморные туалеты |
+| **Peter Kavanagh's** | ~1840-е | ★★★★½ | Эклектичный интерьер: витражи, антиквариат; Georgian Quarter |
+| **The Baltic Fleet** | ~1840-е | ★★★★☆ | Flatiron building у Albert Dock; собственная Wapping Brewery |
+| **Thomas Rigby's** | XVII–XVIII в. | ★★★★☆ | Красивый пивной двор; традиционные эли и сидр |
+| **The Roscoe Head** | — | ★★★★☆ | В каждом Good Beer Guide с 1974 г.; назван в честь аболициониста |
+| **The Lion Tavern** | ~1880-е | ★★★★☆ | Оригинальный викторианский интерьер, витражи; Grade II listed |
+| **The Vines (Big House)** | 1907 | ★★★★☆ | Барочный интерьер напротив Lime Street Station |
 
 ### Кофейни
 
@@ -335,10 +336,3 @@
 - **Из Манчестера** (~50 мин): идеальный day trip
 - **Из Бирмингема** (~1.5 ч): day trip реалистичен
 
-### Ночная жизнь
-
-- **Mathew Street** — исторический Beatles Quarter; Cavern Club, живая музыка, туристическая атмосфера
-- **Concert Square / Ropewalks** — главный район для местных; Heebie Jeebies (Seel St), Arts Club
-- **Baltic Triangle** — альтернативная сцена; 24 Kitchen Street, Constellations, Camp and Furnace
-- **Alma de Cuba** (Seel St) — бар в бывшей церкви; красивый интерьер
-- **Berry & Rye** (Berry St) — speakeasy за неприметной дверью; коктейли высокого уровня
