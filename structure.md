@@ -6,7 +6,10 @@
 
 Разделы документации:
 - uk
+    - blenheim-woodstock.md
+    - brighton.md
     - liverpool.md
+    - london-day-trips.md
     - oxford.md
 
 ---
