@@ -11,6 +11,7 @@
     - liverpool.md
     - london-day-trips.md
     - oxford.md
+    - seven-sisters-eastbourne.md
 
 ---
 
