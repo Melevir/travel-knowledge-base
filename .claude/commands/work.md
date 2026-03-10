@@ -1,5 +1,5 @@
 Run `gh issue list --state open --json number,title,body,labels` to fetch active issues.
-Pick one of them.
+Pick one of them. Prioritize tasks with "high priority" label. 
 
 Check if the task has implementation plan as a comment. If no plan is there, generate it and post
 as a comment to the issue.
