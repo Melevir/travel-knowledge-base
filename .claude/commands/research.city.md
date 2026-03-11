@@ -33,7 +33,7 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
 - однодневная поездка vs ночёвка
 - логистика (как добраться, транспорт внутри)
 
-Сохрани список тем в `travel-knowledge-base/uk/$ARGUMENTS-checklist.md` в формате чеклиста:
+Сохрани список тем в `travel-knowledge-base/checklists/$ARGUMENTS.md` в формате чеклиста:
 ```
 - [ ] Тема 1
 - [ ] Тема 2
@@ -46,7 +46,7 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
 1. Выполни веб-поиск по теме (в контексте города $ARGUMENTS).
 2. Извлеки 1–3 наиболее содержательных результата.
 3. Добавь найденные данные в `research-$ARGUMENTS/report.md` (append, не перезаписывай).
-4. Отметь тему в чеклисте как `- [x]`.
+4. Отметь тему в чеклисте как `- [x]` (обнови файл `travel-knowledge-base/checklists/$ARGUMENTS.md`).
 
 ## Фаза 3: Компиляция статьи
 
@@ -62,4 +62,9 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
 
 После сохранения статьи:
 1. Удали все промежуточные файлы: удали директорию `research-$ARGUMENTS/` и всё её содержимое (`rm -rf research-$ARGUMENTS/`).
-2. Обнови раздел «Разделы документации» в `structure.md`: добавь строку `    - $ARGUMENTS.md` в секцию `- uk` в алфавитном порядке среди остальных файлов.
+2. Обнови раздел «Разделы документации» в `structure.md`:
+   - добавь строку `    - $ARGUMENTS.md` в секцию `- uk` в алфавитном порядке среди остальных файлов;
+   - если секции `- checklists` ещё нет — добавь её после секции `- uk`; если есть — добавь строку `    - $ARGUMENTS.md` в алфавитном порядке.
+3. Убедись, что в репозитории присутствуют оба файла и оба попадут в PR:
+   - `travel-knowledge-base/uk/$ARGUMENTS.md` — статья о городе
+   - `travel-knowledge-base/checklists/$ARGUMENTS.md` — чеклист поисковых запросов
