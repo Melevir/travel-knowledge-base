@@ -12,6 +12,8 @@
     - london-day-trips.md
     - oxford.md
     - seven-sisters-eastbourne.md
+- checklists
+    (поисковые чеклисты, создаются автоматически при исследовании города)
 
 ---
 
