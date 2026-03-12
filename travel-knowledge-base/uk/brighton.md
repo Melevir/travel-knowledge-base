@@ -146,7 +146,7 @@ Brighton Station (прибытие ~10:00)
 
 ### Рынки и стрит-фуд
 
-- **Brighton Open Market** (Saturdays + Sundays, Marshall's Row) — местная еда, ремёсла
+- **Brighton Open Market** (сб–вс, Marshall's Row) — местная еда, ремёсла
 - **North Laine Food Trail** — независимые кафе и стрит-фуд вдоль Gardner Street, Sydney Street
 
 ### Вегетарианское и веганское
