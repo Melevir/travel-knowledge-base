@@ -1,0 +1,46 @@
+site_name: Путешествия по Великобритании
+site_description: База знаний о путешествиях по Великобритании
+docs_dir: travel-knowledge-base
+
+theme:
+  name: material
+  language: ru
+  custom_dir: docs_overrides
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      accent: amber
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      accent: amber
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+markdown_extensions:
+  - toc:
+      permalink: false
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+nav:
+  - Главная: index.md
+  - Обзор однодневных поездок: uk/london-day-trips.md
+  - Оксфорд: uk/oxford.md
+  - Брайтон: uk/brighton.md
+  - Ливерпуль: uk/liverpool.md
+  - Сент-Олбанс: uk/st-albans.md
+  - Бленем и Вудсток: uk/blenheim-woodstock.md
+  - Севен Систерс и Истборн: uk/seven-sisters-eastbourne.md
+  - Чеклист Ливерпуль: checklists/liverpool.md

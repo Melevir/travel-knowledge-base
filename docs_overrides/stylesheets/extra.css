@@ -1,0 +1,268 @@
+/* ==========================================================================
+   Travel Knowledge Base — Modern Editorial Theme
+   Inspired by auliguori.com + numenu.xyz
+   ========================================================================== */
+
+/* ---------- Light mode ---------- */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f5f5f5;
+  --md-default-fg-color: #1a1a1a;
+  --md-default-fg-color--light: #3a3a3a;
+  --md-default-fg-color--lighter: #5a5a5a;
+  --md-default-fg-color--lightest: #8a8a8a;
+
+  --md-primary-fg-color: #f5f5f5;
+  --md-primary-fg-color--light: #fafafa;
+  --md-primary-fg-color--dark: #e8e8e8;
+  --md-primary-bg-color: #1a1a1a;
+  --md-primary-bg-color--light: #3a3a3a;
+
+  --md-accent-fg-color: #e06030;
+  --md-accent-fg-color--transparent: rgba(224, 96, 48, 0.1);
+  --md-accent-bg-color: #fff;
+
+  --md-code-bg-color: #edecea;
+  --md-code-fg-color: #2d2d2d;
+
+  --md-typeset-a-color: #e06030;
+  --md-footer-bg-color: #1a1a1a;
+  --md-footer-bg-color--dark: #111111;
+
+  --star-rating-color: #f2cb0d;
+  --accent-yellow: #f2cb0d;
+}
+
+/* ---------- Dark mode ---------- */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #161614;
+  --md-default-fg-color: #e8e5de;
+  --md-default-fg-color--light: #c5c2ba;
+  --md-default-fg-color--lighter: #9a978f;
+  --md-default-fg-color--lightest: #6b685f;
+
+  --md-primary-fg-color: #161614;
+  --md-primary-fg-color--light: #1e1d1a;
+  --md-primary-fg-color--dark: #0e0d0b;
+  --md-primary-bg-color: #e8e5de;
+  --md-primary-bg-color--light: #c5c2ba;
+
+  --md-accent-fg-color: #e8864a;
+  --md-accent-fg-color--transparent: rgba(232, 134, 74, 0.1);
+
+  --md-code-bg-color: #1e1d1a;
+  --md-code-fg-color: #d5d0c5;
+
+  --md-typeset-a-color: #e8864a;
+  --md-footer-bg-color: #0e0d0b;
+  --md-footer-bg-color--dark: #080807;
+
+  --star-rating-color: #ffd940;
+  --accent-yellow: #ffd940;
+}
+
+/* ---------- Header / Navigation — minimal, blends with page ---------- */
+.md-header {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  box-shadow: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  border-bottom-color: rgba(255, 255, 255, 0.04);
+}
+
+.md-header__button {
+  color: var(--md-default-fg-color);
+}
+
+.md-header__topic {
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+}
+
+.md-tabs {
+  background-color: var(--md-default-bg-color);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+[data-md-color-scheme="slate"] .md-tabs {
+  border-bottom-color: rgba(255, 255, 255, 0.03);
+}
+
+.md-tabs__link {
+  color: var(--md-default-fg-color--light);
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--md-default-fg-color);
+}
+
+/* ---------- De-emphasized search — icon only, no visible input ---------- */
+.md-search__form {
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.md-search__input {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  font-size: 0.8rem;
+  color: transparent;
+}
+.md-search__input::placeholder {
+  color: transparent !important;
+}
+.md-search__icon {
+  opacity: 0.3;
+}
+/* When search is active/focused, show text */
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input {
+  color: var(--md-default-fg-color);
+}
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input::placeholder {
+  color: var(--md-default-fg-color--lighter);
+}
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+  background-color: var(--md-default-bg-color) !important;
+}
+
+/* ---------- Typography — Headings ---------- */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  font-size: 2em;
+  margin-bottom: 0.8em;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+}
+
+.md-typeset h3 {
+  font-weight: 600;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+/* ---------- Tables ---------- */
+.md-typeset table:not([class]) {
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #f2cb0d;
+  color: #1a1a1a;
+  font-weight: 600;
+  padding: 0.7em 1em;
+  white-space: nowrap;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background-color: var(--accent-yellow);
+  color: #1a1a1a;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.7em 1em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) td {
+  border-bottom-color: rgba(255, 255, 255, 0.04);
+}
+
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: rgba(242, 203, 13, 0.08);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tbody tr:hover {
+  background-color: rgba(255, 217, 64, 0.08);
+}
+
+/* ---------- Star ratings (★☆½) ---------- */
+.star-rating {
+  color: var(--star-rating-color);
+  letter-spacing: 0.04em;
+}
+
+/* ---------- Route diagrams (code blocks) ---------- */
+
+/* ---------- General polish ---------- */
+.md-typeset {
+  line-height: 1.7;
+}
+
+/* ---------- Layout — maximize article reading area ---------- */
+.md-sidebar--secondary {
+  display: none !important;
+  width: 0 !important;
+}
+
+.md-sidebar--primary {
+  width: 10rem;
+}
+
+.md-content {
+  max-width: none;
+}
+
+.md-typeset hr {
+  border-color: rgba(0, 0, 0, 0.04);
+}
+
+[data-md-color-scheme="slate"] .md-typeset hr {
+  border-color: rgba(255, 255, 255, 0.04);
+}
+
+/* ---------- Subtler sidebar nav ---------- */
+.md-nav {
+  font-size: 0.75rem !important;
+}
+
+.md-sidebar--primary .md-nav {
+  font-size: 0.75rem !important;
+}
+
+.md-sidebar--primary .md-nav__link {
+  font-size: 0.75rem !important;
+}
+
+.md-nav__title {
+  font-size: 0.72rem !important;
+}
+
+.md-nav__link {
+  color: var(--md-default-fg-color--lighter);
+}
+
+.md-nav__link--active,
+.md-nav__link:hover {
+  color: var(--md-default-fg-color);
+}
+
+.md-sidebar {
+  opacity: 0.85;
+}
+
+/* ---------- Footer ---------- */
+.md-footer {
+  color: #e8e5de;
+}
