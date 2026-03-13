@@ -89,7 +89,7 @@
 - **Anfield Stadium Tour**: экскурсия по стадиону Liverpool FC
 - **Liverpool Waterfront Walk**: Pier Head → Albert Dock → King's Dock (~2–3 км)
 - **Hope Street Walk**: между двумя соборами (~800 м), мимо Philharmonic Hall, Everyman Theatre и паба The Phil
-- **Ночная жизнь**: Mathew Street — Beatles Quarter с Cavern Club и живой музыкой; Concert Square / Ropewalks — Heebie Jeebies, Arts Club; Baltic Triangle — 24 Kitchen Street, Constellations, Camp and Furnace; Berry & Rye (Berry St) — speakeasy с коктейлями высокого уровня
+- **Ночная жизнь**: Mathew Street — Beatles Quarter с Cavern Club и живой музыкой; Concert Square / Ropewalks — Heebie Jeebies, Arts Club; Baltic Triangle — 24 Kitchen Street, Constellations, Camp and Furnace; Berry & Rye (Berry St) — тайный бар с коктейлями высокого уровня
 
 ### Хидден джемс
 
@@ -111,8 +111,8 @@
 
 | Место | Кухня | Примечание |
 |---|---|---|
-| **The Art School** | Совр. британская / fine dining | Шеф Paul Askew; дегустация ~£75–95 |
-| **Maray** (Bold St) | Ближневосточная, small plates | Хумус, фалафель, баклажан с тахини; ~£25–40 |
+| **The Art School** | Совр. британская / изысканная кухня | Шеф Paul Askew; дегустация ~£75–95 |
+| **Maray** (Bold St) | Ближневосточная, малые тарелки | Хумус, фалафель, баклажан с тахини; ~£25–40 |
 | **Mowgli** (Bold St) | Индийская уличная еда | Основательница Nisha Katona MBE; сеть началась здесь; ~£15–25 |
 | **Lunya** (Liverpool ONE) | Каталонская / испанская | Тапас, хамон, паэлья, собственный дели; ~£25–40 |
 | **Wreckfish** (Seel St) | Совр. британская | Шеф Gary Usher (Elite Bistros); ~£30–45 |
