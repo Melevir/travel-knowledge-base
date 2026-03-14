@@ -1,5 +1,5 @@
 ---
-allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*), Bash(rm:*)
+allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*), Bash(rm:*), Bash(git:*), Bash(gh:*)
 ---
 
 Исследуй город «$ARGUMENTS» и создай статью для базы знаний. Работай в три фазы.
@@ -65,6 +65,19 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
 2. Обнови раздел «Разделы документации» в `structure.md`:
    - добавь строку `    - $ARGUMENTS.md` в секцию `- uk` в алфавитном порядке среди остальных файлов;
    - если секции `- checklists` ещё нет — добавь её после секции `- uk`; если есть — добавь строку `    - $ARGUMENTS.md` в алфавитном порядке.
-3. Убедись, что в репозитории присутствуют оба файла и оба попадут в PR:
+3. Проверь, что оба файла существуют (safety net — если файл отсутствует, останови выполнение и сообщи об ошибке):
    - `travel-knowledge-base/uk/$ARGUMENTS.md` — статья о городе
    - `travel-knowledge-base/checklists/$ARGUMENTS.md` — чеклист поисковых запросов
+4. Создай ветку и зафиксируй оба файла явными командами:
+   ```
+   git checkout -b research/$ARGUMENTS
+   git add travel-knowledge-base/uk/$ARGUMENTS.md
+   git add travel-knowledge-base/checklists/$ARGUMENTS.md
+   git add structure.md
+   git status  # убедись, что оба файла в staged
+   git commit -m "Research: $ARGUMENTS"
+   git push -u origin research/$ARGUMENTS
+   ```
+5. Создай PR командой `gh pr create`, явно перечислив оба файла в теле PR:
+   - статья: `travel-knowledge-base/uk/$ARGUMENTS.md`
+   - чеклист: `travel-knowledge-base/checklists/$ARGUMENTS.md`
