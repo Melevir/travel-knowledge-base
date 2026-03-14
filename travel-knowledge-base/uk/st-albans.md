@@ -186,17 +186,17 @@ St Albans City Station (прибытие ~09:45)
 | **Dylans** | Гастропаб | Тюдоровское здание XV в.; 3 года в Good Food Guide; Best Front of House, Top 50 Gastropubs 2022 |
 | **The Waffle House** | Вафли, светлые завтраки | Мельница XVI в. над рекой Ver; знаменита с конца 1970-х; бронировать заранее |
 | **Craft & Cleaver** | BBQ, Бруклин-стиль | Дровяное барбекю; крафтовое пиво; воскресный ростбиф |
-| **The Ivy St Albans Brasserie** | Всё-дня | Люксовая цепочка The Ivy; good for families |
+| **The Ivy St Albans Brasserie** | Всё-дня | Люксовая цепочка The Ivy; подходит для семей с детьми |
 | **Tabure** | Турецкая | Блюда на гриле; sharable plates; современная подача |
 | **Gracey's Pizzeria** | Пицца New Haven | Собственная мука из Redbournbury Mill; семейное заведение |
 
-### Пабы
+### Пабы и бары
 
-| Место | История | Часы | Примечание |
-|---|---|---|---|
-| **Ye Olde Fighting Cocks** | Основан ок. 793 AD (оспаривается) | Пн–чт 12:00–23:00, пт–сб 12:00–00:00, вс 12:00–22:30 | 16 Abbey Mill Lane; октагональное здание XI в.; пивной сад у Verulamium Park; легенда об Оливере Кромвеле и монастырских тоннелях |
-| **Dylans** | XV в. | — | Тюдоровское здание; см. выше |
-| **The Peahen** | — | — | Центр города, популярный городской паб |
+| Место | Основан | Рейтинг | Часы | Чек/чел. |
+|---|---|---|---|---|
+| **Ye Olde Fighting Cocks** | ок. 793 (оспаривается) | ★★★★☆ | Пн–чт 12:00–23:00, пт–сб 12:00–00:00, вс 12:00–22:30 | £6–14 |
+| **Dylans** | XV в. | ★★★★☆ | — | £12–25 |
+| **The Peahen** | — | ★★★☆☆ | — | £5–12 |
 
 > **Статус «Файтинг Кокс»**: паб закрывался в феврале 2022 г. из-за финансовых трудностей после пандемии, но **вновь открылся в апреле 2022 г.** под новым управлением (Мартин Робинсон и команда). По данным CAMRA и Yelp (декабрь 2025), работает в штатном режиме.
 
@@ -244,23 +244,6 @@ St Albans City Station (прибытие ~09:45)
 
 ## Практическая информация
 
-### Транспорт из Лондона
-
-**Thameslink (основной маршрут):**
-
-- London St Pancras International → St Albans City
-- Время в пути: **17–28 мин** (в среднем ~28 мин); самые быстрые поезда — 17–18 мин
-- Частота: **каждые 10–20 мин** в дневное время; ночные рейсы каждый час
-- Advance-билеты: от **£8.40**; средняя цена ~£11.88; дороже при покупке в день поездки
-- Также от **Farringdon** (Thameslink): каждые 15 мин; удобно при проживании в EC1/EC4
-
-**Дополнительные варианты:**
-
-- East Midlands Railway: проходящие поезда через St Pancras; уточнять наличие остановки в Сент-Олбансе
-- Внутренние рейсы Elizabeth Line не доходят до Сент-Олбанса, но могут использоваться для доезда до St Pancras / Farringdon
-
-> **Примечание**: с 31 мая 2026 г. ожидается передача сервиса Thameslink государственному оператору Thameslink Southern Great Northern — расписание и цены сохранятся.
-
 ### Бесплатные активности
 
 - Собор Сент-Олбанс (вход, ежедневные гиды)
@@ -285,25 +268,3 @@ St Albans City Station (прибытие ~09:45)
 | **Часовая башня** | Пасха–конец сент., сб/вс/праздники 10:30–17:00 | Взр. £1 / дети бесп. | 93 ступени; не для колясок и клаустрофобов |
 | **Verulamium Park** | Без ограничений | Бесплатно | — |
 
----
-
-Sources:
-- [St Albans Cathedral – stalbanscathedral.org](https://www.stalbanscathedral.org/pages/faqs/category/visitor-highlights)
-- [Tower Tours – stalbanscathedral.org](https://www.stalbanscathedral.org/event/tower-tours)
-- [Verulamium Museum – stalbansmuseums.org.uk](https://www.stalbansmuseums.org.uk/visit/verulamium-museum)
-- [Roman Theatre – gorhamburyestate.co.uk](https://www.gorhamburyestate.co.uk/roman-theatre/)
-- [Thameslink: London St Pancras to St Albans City](https://www.thameslinkrailway.com/journey/london-st-pancras-to-st-albans-city)
-- [Verulamium Park – stalbans.gov.uk](https://www.stalbans.gov.uk/verulamium-park)
-- [Roman Wall of St Albans – English Heritage](https://www.english-heritage.org.uk/visit/places/roman-wall-of-st-albans/)
-- [Ye Olde Fighting Cocks – Wikipedia](https://en.wikipedia.org/wiki/Ye_Olde_Fighting_Cocks)
-- [Ye Olde Fighting Cocks reopens – Morning Advertiser](https://www.morningadvertiser.co.uk/Article/2022/03/29/Ye-Olde-Fighting-Cocks-St.-Albans-reopens-under-new-management/)
-- [St Albans Market – Wikipedia](https://en.wikipedia.org/wiki/St_Albans_Market)
-- [St Albans Markets – stalbans.gov.uk](https://www.stalbans.gov.uk/visit-st-albans-markets)
-- [St Albans Museum + Gallery – stalbansmuseums.org.uk](https://www.stalbansmuseums.org.uk/visit/st-albans-museum-gallery)
-- [Clock Tower – stalbansmuseums.org.uk](https://www.stalbansmuseums.org.uk/visit/clock-tower)
-- [History of St Albans – Wikipedia](https://en.wikipedia.org/wiki/History_of_St_Albans)
-- [Verulamium – Wikipedia](https://en.wikipedia.org/wiki/Verulamium)
-- [St Albans climate – weather-and-climate.com](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,saint-albans-hertfordshire-gb,United-Kingdom)
-- [Best restaurants in St Albans – olivemagazine.com](https://www.olivemagazine.com/travel/uk/south-east-travel/st-albans-foodie-guide/)
-- [The Waffle House – enjoystalbans.com](https://www.enjoystalbans.com/)
-- [Hidden gems St Albans – corker.taxi](https://www.corker.taxi/top-10-must-visit-attractions-in-st-albans-travel-with-ease/)

@@ -135,8 +135,8 @@ Oxford Station (прибытие ~09:30)
 
 | Место | Особенность |
 |---|---|
-| **The Feathers Hotel** | Один из лучших afternoon tea в Оксфордшире; бронировать за 1–2 дня |
-| **Бленхейм Palace Orangery** | Сезонный afternoon tea на территории дворца (лето) |
+| The Feathers Hotel | Один из лучших afternoon tea в Оксфордшире; бронировать за 1–2 дня |
+| Бленхейм Palace Orangery | Сезонный afternoon tea на территории дворца (лето) |
 
 ---
 
