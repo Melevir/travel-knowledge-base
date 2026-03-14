@@ -308,6 +308,14 @@
 | **Mersey Ferry Explorer** | Несколько раз в день | ~£12–14 | 50-мин круиз с комментарием |
 | **Cavern Club** | Ежедневно | Днём бесплатно / вечер ~£3–5 | Живая музыка каждый день |
 
+### Проживание
+
+| Тип | Варианты | Цена от |
+|---|---|---|
+| **Хостелы** | YHA Liverpool (у Albert Dock), Euro Hostel (у Lime Street), Hatters Hostel | £14–25/дорм |
+| **Бюджетные отели** | Premier Inn, Travelodge, Z Hotel, ibis | £35–70/ночь |
+| **Районы** | City Centre / Albert Dock — удобнее всего; Ropewalks / Bold Street — атмосферно; Baltic Triangle — модный; Georgian Quarter — красивый | — |
+
 ### Логистика
 
 **Как добраться из Лондона:**
@@ -320,14 +328,6 @@
 - **Автобусы**: Arriva, Stagecoach; разовая поездка ~£2–2.50
 - **Пешком**: центр компактный; Albert Dock — Lime Street ~15 мин, Lime Street — соборы ~15–20 мин
 - **Такси**: Uber, Delta Taxis; поездка по центру ~£5–8
-
-### Проживание
-
-| Тип | Варианты | Цена от |
-|---|---|---|
-| **Хостелы** | YHA Liverpool (у Albert Dock), Euro Hostel (у Lime Street), Hatters Hostel | £14–25/дорм |
-| **Бюджетные отели** | Premier Inn, Travelodge, Z Hotel, ibis | £35–70/ночь |
-| **Районы** | City Centre / Albert Dock — удобнее всего; Ropewalks / Bold Street — атмосферно; Baltic Triangle — модный; Georgian Quarter — красивый | — |
 
 ### Однодневная поездка vs ночёвка
 
