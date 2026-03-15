@@ -9,8 +9,8 @@
 - [Брайтон](uk/brighton.md)
 - [Ливерпуль](uk/liverpool.md)
 - [Сент-Олбанс](uk/st-albans.md)
-- [Бленем и Вудсток](uk/blenheim-woodstock.md)
-- [Севен Систерс и Истборн](uk/seven-sisters-eastbourne.md)
+- [Бленхейм и Вудсток](uk/blenheim-woodstock.md)
+- [Семь сестёр и Истборн](uk/seven-sisters-eastbourne.md)
 
 ## Чеклисты
 
