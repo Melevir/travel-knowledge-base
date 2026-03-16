@@ -78,6 +78,24 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
    git commit -m "Research: $ARGUMENTS"
    git push -u origin research/$ARGUMENTS
    ```
-5. Создай PR командой `gh pr create`, явно перечислив оба файла в теле PR:
+5. Обнови `README.md` (корневой): добавь строку с новой статьёй в таблицу «Однодневные поездки из Лондона» (в формате `| [Название](travel-knowledge-base/uk/$ARGUMENTS.md) | время | изюминка |`).
+6. Обнови `travel-knowledge-base/index.md`: добавь ссылку на новую статью в список «Города и маршруты» (в формате `- [Название](uk/$ARGUMENTS.md)`).
+7. Добавь оба обновлённых файла в коммит:
+   ```
+   git add README.md
+   git add travel-knowledge-base/index.md
+   git commit --amend --no-edit
+   ```
+8. Создай PR командой `gh pr create`, явно перечислив файлы и включив чеклист поисковых запросов в тело PR:
    - статья: `travel-knowledge-base/uk/$ARGUMENTS.md`
    - чеклист: `travel-knowledge-base/checklists/$ARGUMENTS.md`
+   - обновлённые страницы навигации: `README.md`, `travel-knowledge-base/index.md`
+
+   В теле PR обязательно добавь раздел с чеклистом для проверки:
+   ```
+   ## Чеклист PR
+   - [ ] Статья создана по шаблону `templates/city.md`
+   - [ ] Чеклист поисковых запросов сохранён в `travel-knowledge-base/checklists/$ARGUMENTS.md`
+   - [ ] Ссылка на статью добавлена в `README.md`
+   - [ ] Ссылка на статью добавлена в `travel-knowledge-base/index.md`
+   ```
