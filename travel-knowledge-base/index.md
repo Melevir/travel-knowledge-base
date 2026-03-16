@@ -11,6 +11,7 @@
 - [Сент-Олбанс](uk/st-albans.md)
 - [Бленхейм и Вудсток](uk/blenheim-woodstock.md)
 - [Семь сестёр и Истборн](uk/seven-sisters-eastbourne.md)
+- [Эли](uk/ely.md)
 
 ## Чеклисты
 
