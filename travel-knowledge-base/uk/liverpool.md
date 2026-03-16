@@ -128,16 +128,16 @@
 
 ### Пабы и бары
 
-| Место | Основан | Рейтинг | Примечание |
-|---|---|---|---|
-| **Ye Hole in Ye Wall** | ~1726 | ★★★★☆ | Старейший паб Ливерпуля; спрятан в переулке |
-| **The Philharmonic Dining Rooms** | 1898 | ★★★★½ | Art Nouveau, Grade I listed; знаменитые мраморные туалеты |
-| **Peter Kavanagh's** | ~1840-е | ★★★★½ | Эклектичный интерьер: витражи, антиквариат; Georgian Quarter |
-| **The Baltic Fleet** | ~1840-е | ★★★★☆ | Flatiron building у Albert Dock; собственная Wapping Brewery |
-| **Thomas Rigby's** | XVII–XVIII в. | ★★★★☆ | Красивый пивной двор; традиционные эли и сидр |
-| **The Roscoe Head** | — | ★★★★☆ | В каждом Good Beer Guide с 1974 г.; назван в честь аболициониста |
-| **The Lion Tavern** | ~1880-е | ★★★★☆ | Оригинальный викторианский интерьер, витражи; Grade II listed |
-| **The Vines (Big House)** | 1907 | ★★★★☆ | Барочный интерьер напротив Lime Street Station |
+| Место | Основан | Рейтинг | Часы | Чек/чел. |
+|---|---|---|---|---|
+| **Ye Hole in Ye Wall** | ~1726 | ★★★★☆ | — | — |
+| **The Philharmonic Dining Rooms** | 1898 | ★★★★½ | 12:00–23:00 | £14–18 |
+| **Peter Kavanagh's** | ~1840-е | ★★★★½ | — | — |
+| **The Baltic Fleet** | ~1840-е | ★★★★☆ | — | — |
+| **Thomas Rigby's** | XVII–XVIII в. | ★★★★☆ | — | £12–16 |
+| **The Roscoe Head** | — | ★★★★☆ | — | — |
+| **The Lion Tavern** | ~1880-е | ★★★★☆ | — | — |
+| **The Vines (Big House)** | 1907 | ★★★★☆ | — | — |
 
 ### Кофейни
 

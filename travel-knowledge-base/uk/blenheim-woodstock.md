@@ -120,16 +120,16 @@ Oxford Station (прибытие ~09:30)
 
 | Место | Основан | Рейтинг | Часы | Чек/чел. |
 |---|---|---|---|---|
-| The Black Prince | XIX в. | ★★★★☆ | 11:00–23:00 | £5–12 |
-| The Kings Arms | XVIII в. | ★★★★☆ | 11:00–23:00 | £6–14 |
-| The Bear Hotel | 1237 | ★★★★★ | 11:00–23:00 | £8–16 |
+| **The Black Prince** | XIX в. | ★★★★☆ | 11:00–23:00 | £5–12 |
+| **The Kings Arms** | XVIII в. | ★★★★☆ | 11:00–23:00 | £6–14 |
+| **The Bear Hotel** | 1237 | ★★★★★ | 11:00–23:00 | £8–16 |
 
 ### Кофейни
 
 | Место | Примечание |
 |---|---|
 | **Hampers Food & Deli** | High Street; сэндвичи, кофе, местные деликатесы — отлично для пикника в парке |
-| **Woodstock Coffee House** | уютная; specialty кофе и выпечка |
+| **Woodstock Coffee House** | Уютная; specialty кофе и выпечка |
 
 ### Afternoon Tea
 
