@@ -12,8 +12,10 @@
     - london-day-trips.md
     - oxford.md
     - seven-sisters-eastbourne.md
+    - Рочестер.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
+    - Рочестер.md
 
 ---
 
