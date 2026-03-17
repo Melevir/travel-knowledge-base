@@ -15,6 +15,7 @@
 | [Ливерпуль](travel-knowledge-base/uk/liverpool.md) | ~2 ч 10 мин | The Beatles, Albert Dock, музеи |
 | [Сент-Олбанс](travel-knowledge-base/uk/st-albans.md) | ~20 мин | Римский город, нормандский собор |
 | [Эли](travel-knowledge-base/uk/ely.md) | ~1 ч 15 мин | Собор в болотах, дом Кромвеля |
+| [Рочестер](travel-knowledge-base/uk/Рочестер.md) | ~35–43 мин | Замок, собор, Диккенс |
 
 ### Сводная таблица всех маршрутов
 
