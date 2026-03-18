@@ -206,24 +206,6 @@
 
 ## Культурный контекст
 
-### The Beatles
-
-- **The Quarrymen** — скиффл-группа Леннона (1956). 6 июля 1957 — встреча с Маккартни на церковном празднике в Woolton
-- **The Cavern Club** (Mathew Street) — 292 выступления Beatles в 1961–1963. Здесь их заметил Brian Epstein 9 ноября 1961. Оригинал снесён в 1973, восстановлен в 1984 с оригинальными кирпичами
-- **Mendips** (251 Menlove Ave) — дом тёти Мими, где вырос Леннон. National Trust, экскурсии ~£25
-- **20 Forthlin Road** — дом Маккартни, где писались ранние песни. National Trust, ~£25
-- **Penny Lane** — улица из песни; барбершоп и shelter in the middle of the roundabout сохранились
-- **Strawberry Field** — бывший детский дом, где играл юный Леннон; с 2019 — выставка и сад (~£8–10)
-- **Beatles Story** (Albert Dock) — крупнейшая в мире постоянная экспозиция; аудиогид на русском
-
-### Музыкальная сцена помимо Beatles
-
-- **Merseybeat (1960-е)**: Gerry and the Pacemakers, The Searchers, Cilla Black
-- **Post-punk (1970–80-е)**: Echo and the Bunnymen, OMD, Frankie Goes to Hollywood, Teardrop Explodes, Dead or Alive
-- **1990-е–2000-е**: The La's («There She Goes»), The Lightning Seeds («Three Lions»), The Coral, The Zutons
-- **Площадки**: Cavern Club, Philharmonic Hall (Royal Liverpool Philharmonic — одна из старейших в мире), O2 Academy, Arts Club, Jacaranda Club (первая площадка Beatles)
-- Ливерпуль — **UNESCO City of Music** с 2015 года
-
 ### Кино и литература
 
 - **«Peaky Blinders»** (2013–2022) — St George's Hall и Stanley Dock изображали Бирмингем 1920-х
@@ -247,12 +229,6 @@
 - **Beryl Bainbridge** (1932–2010) — писательница, пятикратный номинант Booker Prize
 - **Stephen Graham** (1973) — актёр (This Is England, Boardwalk Empire, Line of Duty)
 
-### Футбол
-
-- **Liverpool FC** (осн. 1892): Anfield (~61 000 мест), 6 титулов Лиги чемпионов, 19 чемпионств. Гимн «You'll Never Walk Alone». Hillsborough disaster (1989) — 97 погибших болельщиков
-- **Everton FC** (осн. 1878): Goodison Park; новый стадион на Bramley-Moore Dock (~52 888 мест). 9 чемпионств, Dixie Dean — 60 голов в сезоне 1927/28
-- **Merseyside Derby** — одно из старейших дерби; уникально тем, что болельщики часто из одних семей
-
 ### Исторические события и конфликты
 
 - **Liverpool Blitz (1940–41)** — второй после Лондона наиболее бомбардированный город. May Blitz: 7 ночей, ~870 тонн бомб. ~4000 погибших, 70 000 без жилья
@@ -272,6 +248,30 @@
 - **The Philharmonic Dining Rooms** (1898–1900) — Art Nouveau; Grade I listed паб
 - **Victoria Building** (1892, арх. Alfred Waterhouse) — красный кирпич в стиле готики; родоначальник термина «Red Brick University»
 - **Stanley Dock Tobacco Warehouse** (1901) — на момент постройки крупнейшее кирпичное здание в мире
+
+### The Beatles
+
+- **The Quarrymen** — скиффл-группа Леннона (1956). 6 июля 1957 — встреча с Маккартни на церковном празднике в Woolton
+- **The Cavern Club** (Mathew Street) — 292 выступления Beatles в 1961–1963. Здесь их заметил Brian Epstein 9 ноября 1961. Оригинал снесён в 1973, восстановлен в 1984 с оригинальными кирпичами
+- **Mendips** (251 Menlove Ave) — дом тёти Мими, где вырос Леннон. National Trust, экскурсии ~£25
+- **20 Forthlin Road** — дом Маккартни, где писались ранние песни. National Trust, ~£25
+- **Penny Lane** — улица из песни; барбершоп и shelter in the middle of the roundabout сохранились
+- **Strawberry Field** — бывший детский дом, где играл юный Леннон; с 2019 — выставка и сад (~£8–10)
+- **Beatles Story** (Albert Dock) — крупнейшая в мире постоянная экспозиция; аудиогид на русском
+
+### Музыкальная сцена помимо Beatles
+
+- **Merseybeat (1960-е)**: Gerry and the Pacemakers, The Searchers, Cilla Black
+- **Post-punk (1970–80-е)**: Echo and the Bunnymen, OMD, Frankie Goes to Hollywood, Teardrop Explodes, Dead or Alive
+- **1990-е–2000-е**: The La's («There She Goes»), The Lightning Seeds («Three Lions»), The Coral, The Zutons
+- **Площадки**: Cavern Club, Philharmonic Hall (Royal Liverpool Philharmonic — одна из старейших в мире), O2 Academy, Arts Club, Jacaranda Club (первая площадка Beatles)
+- Ливерпуль — **UNESCO City of Music** с 2015 года
+
+### Футбол
+
+- **Liverpool FC** (осн. 1892): Anfield (~61 000 мест), 6 титулов Лиги чемпионов, 19 чемпионств. Гимн «You'll Never Walk Alone». Hillsborough disaster (1989) — 97 погибших болельщиков
+- **Everton FC** (осн. 1878): Goodison Park; новый стадион на Bramley-Moore Dock (~52 888 мест). 9 чемпионств, Dixie Dean — 60 голов в сезоне 1927/28
+- **Merseyside Derby** — одно из старейших дерби; уникально тем, что болельщики часто из одних семей
 
 ---
 

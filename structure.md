@@ -8,13 +8,16 @@
 - uk
     - blenheim-woodstock.md
     - brighton.md
+    - ely.md
     - liverpool.md
     - london-day-trips.md
     - oxford.md
     - seven-sisters-eastbourne.md
+    - st-albans.md
     - Рочестер.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
+    - liverpool.md
     - Рочестер.md
 
 ---

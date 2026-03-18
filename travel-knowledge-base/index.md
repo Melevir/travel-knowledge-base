@@ -17,3 +17,4 @@
 ## Чеклисты
 
 - [Ливерпуль](checklists/liverpool.md)
+- [Рочестер](checklists/Рочестер.md)
