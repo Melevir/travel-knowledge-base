@@ -139,32 +139,32 @@ Eastbourne Station (прибытие ~09:30–10:00)
 
 | Место | Кухня | Примечание |
 |---|---|---|
-| The Belgian Café | Морепродукты, мидии, устрицы | На набережной; открытая терраса; лучший вид на море |
-| The Beach Deck | Разнообразная, морепродукты | Royal Parade; панорамный вид на море |
-| Port Hotel Restaurant | Современная британская | Лобстер такос, короткие ребра; малые и большие тарелки |
-| Glass House | Местные продукты | Redoubt Gardens; вид на море; свежее и сезонное |
-| Harry Ramsden's | Fish & chips | Классика; центр города; давно на рынке |
-| Pedro's Fish & Chips | Fish & chips | Лёгкое тесто; щедрые порции; хороший рейтинг |
-| The Good Grub | 100% веганская | 12 Compton St; за Grand Hotel; полный веганский завтрак и ростбиф |
+| **The Belgian Café** | Морепродукты, мидии, устрицы | На набережной; открытая терраса; лучший вид на море |
+| **The Beach Deck** | Разнообразная, морепродукты | Royal Parade; панорамный вид на море |
+| **Port Hotel Restaurant** | Современная британская | Лобстер такос, короткие ребра; малые и большие тарелки |
+| **Glass House** | Местные продукты | Redoubt Gardens; вид на море; свежее и сезонное |
+| **Harry Ramsden's** | Fish & chips | Классика; центр города; давно на рынке |
+| **Pedro's Fish & Chips** | Fish & chips | Лёгкое тесто; щедрые порции; хороший рейтинг |
+| **The Good Grub** | 100% веганская | 12 Compton St; за Grand Hotel; полный веганский завтрак и ростбиф |
 
 ### Пабы и бары
 
 | Место | Основан | Рейтинг | Часы | Чек/чел. |
 |---|---|---|---|---|
-| The Lamb Inn | ок. 1180 | ★★★★★ | 11:00–23:00 | £6–12 |
-| The Pilot Inn | XIX в. | ★★★★☆ | 11:00–23:00 | £7–14 |
-| The Hurst Arms | XIX в. | ★★★★☆ | 11:00–23:00 | £5–10 |
-| Birling Gap NT Café | — | ★★★★☆ | 10:00–17:00 (ежедн.) | £4–10 |
+| **The Lamb Inn** | ок. 1180 | ★★★★★ | 11:00–23:00 | £6–12 |
+| **The Pilot Inn** | XIX в. | ★★★★☆ | 11:00–23:00 | £7–14 |
+| **The Hurst Arms** | XIX в. | ★★★★☆ | 11:00–23:00 | £5–10 |
+| **Birling Gap NT Café** | — | ★★★★☆ | 10:00–17:00 (ежедн.) | £4–10 |
 
 ### Кофейни
 
 | Место | Примечание |
 |---|---|
-| Nelson Coffee – The Roastery | Specialty; австралийский бранч; ботомлес-бранч по субботам |
-| Tall Guy Coffee Co. | 69 Terminus Road; независимая; центр города |
-| Urban Ground Cafes | South Street + Bolton Road; specialty |
-| JoJo's Tea Room | Лучший Afternoon Tea в Eastbourne; сконы со сливками |
-| The View Hotel Vista Bar | Afternoon Tea с видом на море |
+| **Nelson Coffee – The Roastery** | Specialty; австралийский бранч; ботомлес-бранч по субботам |
+| **Tall Guy Coffee Co.** | 69 Terminus Road; независимая; центр города |
+| **Urban Ground Cafes** | South Street + Bolton Road; specialty |
+| **JoJo's Tea Room** | Лучший Afternoon Tea в Eastbourne; сконы со сливками |
+| **The View Hotel Vista Bar** | Afternoon Tea с видом на море |
 
 ### Afternoon Tea
 
