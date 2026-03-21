@@ -12,8 +12,10 @@
     - liverpool.md
     - london-day-trips.md
     - oxford.md
+    - rye.md
     - seven-sisters-eastbourne.md
     - st-albans.md
+    - whitstable.md
     - Рочестер.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
