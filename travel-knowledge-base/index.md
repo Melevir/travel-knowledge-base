@@ -15,7 +15,10 @@
 - [Эли](uk/ely.md)
 - [Уитстейбл](uk/whitstable.md)
 
+- [Портсмут](uk/Портсмут.md)
+
 ## Чеклисты
 
 - [Ливерпуль](checklists/liverpool.md)
 - [Рочестер](checklists/Рочестер.md)
+- [Портсмут](checklists/Портсмут.md)
