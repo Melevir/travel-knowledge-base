@@ -15,10 +15,12 @@
     - seven-sisters-eastbourne.md
     - st-albans.md
     - Рочестер.md
+    - Портсмут.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - liverpool.md
     - Рочестер.md
+    - Портсмут.md
 
 ---
 

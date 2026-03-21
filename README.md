@@ -18,6 +18,7 @@
 | [Рочестер](travel-knowledge-base/uk/Рочестер.md) | ~35–43 мин | Замок, собор, Диккенс |
 | [Рай](travel-knowledge-base/uk/rye.md) | ~1 ч 30–50 мин | Средневековые улочки, Mermaid Street |
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
+| [Портсмут](travel-knowledge-base/uk/Портсмут.md) | 1.5–1 ч 40 мин | Historic Dockyard, HMS Victory, Spinnaker Tower |
 
 ### Сводная таблица всех маршрутов
 
