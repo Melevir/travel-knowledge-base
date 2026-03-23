@@ -19,6 +19,7 @@
 | [Рай](travel-knowledge-base/uk/rye.md) | ~1 ч 30–50 мин | Средневековые улочки, Mermaid Street |
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
 | [Портсмут](travel-knowledge-base/uk/Портсмут.md) | 1.5–1 ч 40 мин | Historic Dockyard, HMS Victory, Spinnaker Tower |
+| [Корнуолл](travel-knowledge-base/uk/корнуолл.md) | ~5 ч 30 мин (ночной поезд) | Eden Project, St Michael's Mount, серфинг, пасти |
 
 ### Сводная таблица всех маршрутов
 

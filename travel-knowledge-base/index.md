@@ -16,9 +16,11 @@
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
 - [Портсмут](uk/Портсмут.md)
+- [Корнуолл](uk/корнуолл.md)
 
 ## Чеклисты
 
 - [Ливерпуль](checklists/liverpool.md)
 - [Рочестер](checklists/Рочестер.md)
 - [Портсмут](checklists/Портсмут.md)
+- [Корнуолл](checklists/Корнуолл.md)
