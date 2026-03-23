@@ -16,13 +16,15 @@
     - seven-sisters-eastbourne.md
     - st-albans.md
     - whitstable.md
-    - Рочестер.md
     - Портсмут.md
+    - Рочестер.md
+    - корнуолл.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - liverpool.md
     - Рочестер.md
     - Портсмут.md
+    - Корнуолл.md
 
 ---
 
