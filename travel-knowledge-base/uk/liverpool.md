@@ -277,6 +277,19 @@
 
 ## Практическая информация
 
+### Логистика
+
+**Как добраться из Лондона:**
+- **Поезд**: London Euston → Liverpool Lime Street (Avanti West Coast), ~2 ч 10 мин. Advance от ~£30–40, без бронирования £80–180+. Поезда каждые 30–60 мин
+- **Автобус**: National Express / Megabus, 4.5–6 ч, от £5–10 при раннем бронировании
+- **Из Манчестера**: ~50 мин поездом — идеальный day trip
+
+**Транспорт внутри:**
+- **Merseyrail** — электричка/метро; 2 линии (Northern и Wirral). Ключевые станции: Liverpool Central, Lime Street, James Street (Albert Dock), Waterloo (Crosby Beach). Поездка по центру ~£2–3. **Saveaway** (~£5.50/день) — все зоны Merseyrail + автобусы + паромы
+- **Автобусы**: Arriva, Stagecoach; разовая поездка ~£2–2.50
+- **Пешком**: центр компактный; Albert Dock — Lime Street ~15 мин, Lime Street — соборы ~15–20 мин
+- **Такси**: Uber, Delta Taxis; поездка по центру ~£5–8
+
 ### Бесплатные активности
 
 - **Museum of Liverpool**, **Walker Art Gallery**, **World Museum**, **International Slavery Museum**, **Tate Liverpool** — все бесплатны (основные коллекции)
@@ -307,19 +320,6 @@
 | **Magical Mystery Tour** | По расписанию | ~£22 | 2-часовой автобус по Beatles-местам |
 | **Mersey Ferry Explorer** | Несколько раз в день | ~£12–14 | 50-мин круиз с комментарием |
 | **Cavern Club** | Ежедневно | Днём бесплатно / вечер ~£3–5 | Живая музыка каждый день |
-
-### Логистика
-
-**Как добраться из Лондона:**
-- **Поезд**: London Euston → Liverpool Lime Street (Avanti West Coast), ~2 ч 10 мин. Advance от ~£30–40, без бронирования £80–180+. Поезда каждые 30–60 мин
-- **Автобус**: National Express / Megabus, 4.5–6 ч, от £5–10 при раннем бронировании
-- **Из Манчестера**: ~50 мин поездом — идеальный day trip
-
-**Транспорт внутри:**
-- **Merseyrail** — электричка/метро; 2 линии (Northern и Wirral). Ключевые станции: Liverpool Central, Lime Street, James Street (Albert Dock), Waterloo (Crosby Beach). Поездка по центру ~£2–3. **Saveaway** (~£5.50/день) — все зоны Merseyrail + автобусы + паромы
-- **Автобусы**: Arriva, Stagecoach; разовая поездка ~£2–2.50
-- **Пешком**: центр компактный; Albert Dock — Lime Street ~15 мин, Lime Street — соборы ~15–20 мин
-- **Такси**: Uber, Delta Taxis; поездка по центру ~£5–8
 
 ### Проживание
 
