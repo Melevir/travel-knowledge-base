@@ -8,11 +8,18 @@
 - uk
     - blenheim-woodstock.md
     - brighton.md
+    - ely.md
     - liverpool.md
     - london-day-trips.md
     - oxford.md
+    - rye.md
     - seven-sisters-eastbourne.md
+    - st-albans.md
+    - whitstable.md
+    - Гастингс.md
+    - Портсмут.md
     - Рочестер.md
+    - корнуолл.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
@@ -23,7 +30,11 @@
       - hyde-park-kensington-gardens.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
+    - liverpool.md
+    - Гастингс.md
     - Рочестер.md
+    - Портсмут.md
+    - Корнуолл.md
     - walking_routes_london.md
 
 ---
