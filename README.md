@@ -20,6 +20,7 @@
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
 | [Портсмут](travel-knowledge-base/uk/Портсмут.md) | 1.5–1 ч 40 мин | Historic Dockyard, HMS Victory, Spinnaker Tower |
 | [Корнуолл](travel-knowledge-base/uk/корнуолл.md) | ~5 ч 30 мин (ночной поезд) | Eden Project, St Michael's Mount, серфинг, пасти |
+| [Виндзор](travel-knowledge-base/uk/windsor.md) | ~35–55 мин | Королевский замок, Great Park, Итон |
 | [Гастингс и Батл](travel-knowledge-base/uk/Гастингс.md) | ~1 ч 27–47 мин | Поле битвы 1066 г., Net Shops, рыбацкий флот |
 
 ### Сводная таблица всех маршрутов
