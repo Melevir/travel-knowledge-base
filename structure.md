@@ -16,6 +16,7 @@
     - seven-sisters-eastbourne.md
     - st-albans.md
     - whitstable.md
+    - windsor.md
     - Гастингс.md
     - Портсмут.md
     - Рочестер.md
