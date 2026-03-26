@@ -28,6 +28,8 @@
       - greenwich-park.md
       - bushy-park.md
       - hyde-park-kensington-gardens.md
+      - hampstead-heath.md
+      - victoria-park.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - liverpool.md

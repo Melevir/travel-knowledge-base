@@ -1,3 +1,7 @@
+---
+allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*), Bash(rm:*), Bash(git:*), Bash(gh:*)
+---
+
 Возьми первый неисследованный запрос из travel-knowledge-base/checklists/walking_routes_london.md
 
 Для выбранной темы:

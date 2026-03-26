@@ -1,6 +1,6 @@
-# Пешеходные маршруты по Королевским паркам Лондона
+# Пешеходные маршруты по паркам Лондона
 
-Восемь Королевских парков — более 2 000 гектаров зелени в черте Лондона. Вход бесплатный, открыты круглый год. Все маршруты доступны на общественном транспорте.
+Королевские парки и другие зелёные пространства — тысячи гектаров зелени в черте Лондона. Вход бесплатный, открыты круглый год. Все маршруты доступны на общественном транспорте.
 
 ---
 
@@ -16,6 +16,11 @@
 | 6 | [ ] | [Bushy Park](bushy-park.md) | Hampton Court (NR) | 6 | ~8 км | 2–2,5 ч | лёгкая | Каштановая аллея, олени, Hampton Court рядом |
 | 7 | [ ] | [Hyde Park и Kensington Gardens — полный обход](hyde-park-kensington-gardens.md) | Lancaster Gate | 1 | ~7 км | 2–2,5 ч | лёгкая | Italian Gardens, Diana Fountain, Albert Memorial |
 | 8 | [ ] | [Hyde Park и Kensington Gardens — короткий](hyde-park-kensington-gardens.md) | Queensway | 1 | ~3,5 км | 1–1,5 ч | лёгкая | Kensington Palace, Peter Pan, Round Pond |
+| 9 | [ ] | [Hampstead Heath — полный обход](hampstead-heath.md) | Gospel Oak | 2 | ~10,5 км | 3–3,5 ч | умеренная | Parliament Hill, Kenwood House, Hill Garden & Pergola |
+| 10 | [ ] | [Hampstead Heath — укороченный](hampstead-heath.md) | Hampstead Heath | 2 | ~7 км | 2–2,5 ч | лёгкая–умеренная | Parliament Hill, Kenwood House, пруды |
+| 11 | [ ] | [Hampstead Heath — Hill Garden и Golders Hill](hampstead-heath.md) | Hampstead | 2 | ~4 км | 1–1,5 ч | лёгкая | Hill Garden & Pergola, мини-зоопарк |
+| 12 | [ ] | [Victoria Park — полный обход](victoria-park.md) | Mile End | 2 | ~5 км | 1–1,5 ч | лёгкая | Пагода, фонтан Бёрдетт-Каутс, Old English Garden |
+| 13 | [ ] | [Victoria Park + Regent's Canal](victoria-park.md) | Mile End | 2 | ~8,5 км | 2–2,5 ч | лёгкая | Парк + канал с баржами и стрит-артом |
 
 > **Совет:** маршруты 1 и 2 можно объединить в один день (~14,5 км, 5–6 ч). Маршруты 3/4 и 6 тоже совмещаются — Richmond Park утром, Bushy Park после обеда.
 

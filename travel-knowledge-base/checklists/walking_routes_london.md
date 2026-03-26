@@ -3,12 +3,12 @@
 ## Королевские и крупные парки Лондона
 - [x] Royal Parks London complete list walking routes
 - [x] Hyde Park Kensington Gardens walking trails map
-- [ ] Richmond Park walking routes circular walks
-- [ ] Hampstead Heath walking trails best routes
-- [ ] Greenwich Park walking routes panoramic views
-- [ ] Regent's Park walking trails Primrose Hill
-- [ ] Bushy Park walking routes deer park trails
-- [ ] Victoria Park East London walking routes
+- [x] Richmond Park walking routes circular walks
+- [x] Hampstead Heath walking trails best routes
+- [x] Greenwich Park walking routes panoramic views
+- [x] Regent's Park walking trails Primrose Hill
+- [x] Bushy Park walking routes deer park trails
+- [x] Victoria Park East London walking routes
 - [ ] Battersea Park walking trails riverside
 - [ ] Crystal Palace Park walking routes dinosaurs trail
 
