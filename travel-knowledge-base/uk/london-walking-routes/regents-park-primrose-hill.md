@@ -6,7 +6,7 @@ Regent's Park (160 га) — один из крупнейших Королевс
 
 ## Логистика
 
-**Как добраться:** метро Baker Street (Circle / Hammersmith & City / Metropolitan / Jubilee, зона 1). Альтернативный финиш — Camden Town (Northern line, зона 2). Contactless или Oyster; дневной кэп зоны 1–2 — £8,50.
+**Как добраться:** метро Baker Street (Circle / Hammersmith & City / Metropolitan / Jubilee, зона 1). Альтернативный финиш — Camden Town (Northern line, зона 2). Contactless или Oyster; дневной кэп зоны 1–2 — £8,90.
 
 **Часы работы:** пешеходные ворота — 05:00 до заката (в тёплое время — круглосуточно); автомобильные ворота закрываются на закате.
 
