@@ -15,6 +15,7 @@
     - rye.md
     - seven-sisters-eastbourne.md
     - st-albans.md
+    - chichester.md
     - whitstable.md
     - Гастингс.md
     - Портсмут.md
