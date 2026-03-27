@@ -16,3 +16,4 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
    - london-walking-routes/index.md — добавь строку в сводную таблицу маршрутов
    - travel-knowledge-base/index.md — убедись, что ссылка на раздел маршрутов есть
    - README.md — убедись, что ссылка на раздел маршрутов есть
+8. Создай PR командой `gh pr create`, явно перечислив изменённые файлы.
