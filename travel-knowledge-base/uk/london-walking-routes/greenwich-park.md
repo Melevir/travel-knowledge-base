@@ -6,7 +6,7 @@
 
 ## Логистика
 
-**Как добраться:** DLR до Cutty Sark (зона 2). Альтернатива — National Rail до Greenwich. Contactless или Oyster; дневной кэп зоны 1–2 — £8,50.
+**Как добраться:** DLR до Cutty Sark (зона 2). Альтернатива — National Rail до Greenwich. Contactless или Oyster; дневной кэп зоны 1–2 — £8,90.
 
 **Часы работы:** 06:00 — закат.
 
