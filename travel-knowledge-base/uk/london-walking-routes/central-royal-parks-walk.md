@@ -6,7 +6,7 @@
 
 ## Логистика
 
-**Как добраться:** метро до Queensway или Lancaster Gate (Central line, зона 1). Финиш — станция Westminster (Jubilee / District / Circle, зона 1). Contactless или Oyster; дневной кэп зоны 1–2 — £8,50.
+**Как добраться:** метро до Queensway или Lancaster Gate (Central line, зона 1). Финиш — станция Westminster (Jubilee / District / Circle, зона 1). Contactless или Oyster; дневной кэп зоны 1–2 — £8,90.
 
 **Часы работы парков:**
 
