@@ -1,5 +1,5 @@
 ---
-allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*), Bash(rm:*), Bash(git:*), Bash(gh:*)
+allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*), Bash(git:*), Bash(gh:*)
 ---
 
 Возьми первый неисследованный запрос из travel-knowledge-base/checklists/walking_routes_london.md
@@ -16,4 +16,5 @@ allowed-tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch, Bash(mkdir:*)
    - london-walking-routes/index.md — добавь строку в сводную таблицу маршрутов
    - travel-knowledge-base/index.md — убедись, что ссылка на раздел маршрутов есть
    - README.md — убедись, что ссылка на раздел маршрутов есть
-8. Создай PR командой `gh pr create`, явно перечислив изменённые файлы.
+8. Создай ветку и зафиксируй все нужные файлы явными командами `git add`. НЕ делай пуш в master/main.
+9. Создай PR командой `gh pr create`, явно перечислив изменённые файлы.
