@@ -21,6 +21,7 @@
     - Портсмут.md
     - Рочестер.md
     - корнуолл.md
+    - stonehenge-salisbury.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
@@ -39,6 +40,7 @@
     - Рочестер.md
     - Портсмут.md
     - Корнуолл.md
+    - stonehenge-salisbury.md
     - walking_routes_london.md
 
 ---

@@ -20,6 +20,7 @@
 - [Виндзор](uk/windsor.md)
 - [Чичестер](uk/chichester.md)
 - [Гастингс и Батл](uk/Гастингс.md)
+- [Стоунхендж и Солсбери](uk/stonehenge-salisbury.md)
 
 ## Пешеходные маршруты по Лондону
 
@@ -32,3 +33,4 @@
 - [Портсмут](checklists/Портсмут.md)
 - [Корнуолл](checklists/Корнуолл.md)
 - [Гастингс](checklists/Гастингс.md)
+- [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
