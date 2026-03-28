@@ -21,6 +21,7 @@
     - Портсмут.md
     - Рочестер.md
     - корнуолл.md
+    - stonehenge-salisbury.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
@@ -31,6 +32,7 @@
       - hyde-park-kensington-gardens.md
       - hampstead-heath.md
       - victoria-park.md
+      - battersea-park.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - liverpool.md
@@ -38,6 +40,7 @@
     - Рочестер.md
     - Портсмут.md
     - Корнуолл.md
+    - stonehenge-salisbury.md
     - walking_routes_london.md
 
 ---
