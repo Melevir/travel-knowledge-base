@@ -9,7 +9,7 @@
 - [x] Regent's Park walking trails Primrose Hill
 - [x] Bushy Park walking routes deer park trails
 - [x] Victoria Park East London walking routes
-- [ ] Battersea Park walking trails riverside
+- [x] Battersea Park walking trails riverside
 - [ ] Crystal Palace Park walking routes dinosaurs trail
 
 ## Скрытые и малоизвестные парки Лондона

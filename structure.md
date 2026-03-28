@@ -31,6 +31,7 @@
       - hyde-park-kensington-gardens.md
       - hampstead-heath.md
       - victoria-park.md
+      - battersea-park.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - liverpool.md

@@ -21,6 +21,8 @@
 | 11 | [ ] | [Hampstead Heath — Hill Garden и Golders Hill](hampstead-heath.md) | Hampstead | 2 | ~4 км | 1–1,5 ч | лёгкая | Hill Garden & Pergola, мини-зоопарк |
 | 12 | [ ] | [Victoria Park — полный обход](victoria-park.md) | Mile End | 2 | ~5 км | 1–1,5 ч | лёгкая | Пагода, фонтан Бёрдетт-Каутс, Old English Garden |
 | 13 | [ ] | [Victoria Park + Regent's Canal](victoria-park.md) | Mile End | 2 | ~8,5 км | 2–2,5 ч | лёгкая | Парк + канал с баржами и стрит-артом |
+| 14 | [ ] | [Battersea Park — кольцо парк + Темза](battersea-park.md) | Battersea Park (NR) | 2 | ~3,4 км | 40–50 мин | лёгкая | Пагода мира, вишнёвая аллея, набережная Темзы |
+| 15 | [ ] | [Battersea Park — от Воксхолла по берегу](battersea-park.md) | Vauxhall | 1–2 | ~7,7 км | 1,5–2 ч | лёгкая | Речной путь от Воксхолла до парка через Chelsea Bridge |
 
 > **Совет:** маршруты 1 и 2 можно объединить в один день (~14,5 км, 5–6 ч). Маршруты 3/4 и 6 тоже совмещаются — Richmond Park утром, Bushy Park после обеда.
 
