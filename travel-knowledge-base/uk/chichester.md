@@ -158,14 +158,16 @@ Chichester Station (прибытие ~10:00)
 
 ### Пабы и бары
 
-| Место | Рейтинг | Примечание |
-|---|---|---|
-| **Crown & Anchor** (Dell Quay) | ★★★★★ | Вид на гавань; краб Selsey, морской окунь; dog-friendly |
-| **The Earl of March** (Lavant) | ★★★★★ | Коучинг-инн XVIII в.; сад с видом на South Downs |
-| **George & Dragon Inn** | ★★★★☆ | Традиционный независимый паб в центре; cask ales |
-| **The Anglesey Arms** (Halnaker) | ★★★★☆ | Обновлённый деревенский паб; рядом с Goodwood |
-| **The Ship Inn** (Itchenor) | ★★★★☆ | У воды; морепродукты от местных рыбаков |
-| **The Hole in the Wall** | ★★★★☆ | Атмосферный паб в исторических переулках центра |
+| Место | Основан | Рейтинг | Часы | Чек/чел. |
+|---|---|---|---|---|
+| **Crown & Anchor** (Dell Quay) | — | ★★★★★ | — | — |
+| **The Earl of March** (Lavant) | XVIII в. | ★★★★★ | — | — |
+| **George & Dragon Inn** | — | ★★★★☆ | — | — |
+| **The Anglesey Arms** (Halnaker) | — | ★★★★☆ | — | — |
+| **The Ship Inn** (Itchenor) | — | ★★★★☆ | — | — |
+| **The Hole in the Wall** | — | ★★★★☆ | — | — |
+
+**Crown & Anchor** — у воды в Dell Quay; краб Selsey, морской окунь; dog-friendly. **The Earl of March** — коучинг-инн XVIII в. в Lavant; сад с панорамой South Downs.
 
 ### Кофейни
 
