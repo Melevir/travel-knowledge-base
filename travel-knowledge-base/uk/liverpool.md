@@ -274,12 +274,12 @@
 
 ## Практическая информация
 
-**Как добраться из Лондона:**
+### Как добраться
 - **Поезд**: London Euston → Liverpool Lime Street (Avanti West Coast), ~2 ч 10 мин. Advance от ~£30–40, без бронирования £80–180+. Поезда каждые 30–60 мин
 - **Автобус**: National Express / Megabus, 4.5–6 ч, от £5–10 при раннем бронировании
 - **Из Манчестера**: ~50 мин поездом — идеальный day trip
 
-**Транспорт внутри:**
+### Транспорт
 - **Merseyrail** — электричка/метро; 2 линии (Northern и Wirral). Ключевые станции: Liverpool Central, Lime Street, James Street (Albert Dock), Waterloo (Crosby Beach). Поездка по центру ~£2–3. **Saveaway** (~£5.50/день) — все зоны Merseyrail + автобусы + паромы
 - **Автобусы**: Arriva, Stagecoach; разовая поездка ~£2–2.50
 - **Пешком**: центр компактный; Albert Dock — Lime Street ~15 мин, Lime Street — соборы ~15–20 мин
