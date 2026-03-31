@@ -24,6 +24,7 @@
 | [Чичестер](travel-knowledge-base/uk/chichester.md) | ~1 ч 32–50 мин | Собор с витражом Шагала, Fishbourne Roman Palace, Pallant House Gallery |
 | [Гастингс и Батл](travel-knowledge-base/uk/Гастингс.md) | ~1 ч 27–47 мин | Поле битвы 1066 г., Net Shops, рыбацкий флот |
 | [Стоунхендж и Солсбери](travel-knowledge-base/uk/stonehenge-salisbury.md) | ~1 ч 30 мин + авт. | Доисторический мегалит, самый высокий собор Англии, Хартия |
+| [Кембридж](travel-knowledge-base/uk/Cambridge.md) | ~49 мин | Университет, King's College Chapel, пантинг, The Eagle |
 | [Эдинбург](travel-knowledge-base/uk/edinburgh.md) | ~4 ч 20 мин | Замок, Royal Mile, Arthur's Seat, виски, фестивали |
 
 ### Сводная таблица всех маршрутов

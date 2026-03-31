@@ -8,6 +8,7 @@
 - uk
     - blenheim-woodstock.md
     - brighton.md
+    - Cambridge.md
     - edinburgh.md
     - ely.md
     - liverpool.md
@@ -38,6 +39,7 @@
       - hidden-parks-london.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
+    - Cambridge.md
     - edinburgh.md
     - liverpool.md
     - Гастингс.md
