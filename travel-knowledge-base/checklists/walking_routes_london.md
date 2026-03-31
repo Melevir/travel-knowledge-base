@@ -13,7 +13,7 @@
 - [x] Crystal Palace Park walking routes dinosaurs trail
 
 ## Скрытые и малоизвестные парки Лондона
-- [ ] Hidden parks London secret green spaces
+- [x] Hidden parks London secret green spaces
 - [ ] London nature reserves walking routes
 - [ ] Sydenham Hill Wood walking trails ancient woodland London
 - [ ] Highgate Wood Queen's Wood walking routes

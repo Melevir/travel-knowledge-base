@@ -34,6 +34,7 @@
       - victoria-park.md
       - battersea-park.md
       - crystal-palace-park.md
+      - hidden-parks-london.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - liverpool.md
