@@ -52,3 +52,54 @@ jobs:
             WebSearch
           show_full_output: true
 
+      - name: Comment token usage on PR
+        if: always() && steps.claude.outputs.execution_file
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MONTHLY_TOKEN_LIMIT: ${{ vars.MONTHLY_TOKEN_LIMIT || '1000000' }}
+        run: |
+          EXEC_FILE="${{ steps.claude.outputs.execution_file }}"
+          if [ ! -f "$EXEC_FILE" ]; then
+            echo "No execution file found, skipping"
+            exit 0
+          fi
+
+          # Extract usage from the result message (last message in the array)
+          RESULT=$(jq '.[-1]' "$EXEC_FILE")
+          INPUT_TOKENS=$(echo "$RESULT" | jq '.usage.input_tokens // 0')
+          OUTPUT_TOKENS=$(echo "$RESULT" | jq '.usage.output_tokens // 0')
+          CACHE_CREATION=$(echo "$RESULT" | jq '.usage.cache_creation_input_tokens // 0')
+          CACHE_READ=$(echo "$RESULT" | jq '.usage.cache_read_input_tokens // 0')
+          TOTAL_COST=$(echo "$RESULT" | jq '.total_cost_usd // 0')
+          TOTAL_TOKENS=$((INPUT_TOKENS + OUTPUT_TOKENS + CACHE_CREATION + CACHE_READ))
+
+          # Calculate percent of monthly limit
+          PERCENT=$(echo "scale=2; $TOTAL_TOKENS * 100 / $MONTHLY_TOKEN_LIMIT" | bc)
+
+          # Find PR created from this branch
+          BRANCH="${{ steps.claude.outputs.branch_name }}"
+          if [ -z "$BRANCH" ]; then
+            echo "No branch output, skipping PR comment"
+            exit 0
+          fi
+
+          PR_NUMBER=$(gh pr list --head "$BRANCH" --json number --jq '.[0].number')
+          if [ -z "$PR_NUMBER" ]; then
+            echo "No PR found for branch $BRANCH, skipping"
+            exit 0
+          fi
+
+          BODY="### 📊 Token Usage
+
+          | Metric | Value |
+          |--------|-------|
+          | Input tokens | ${INPUT_TOKENS} |
+          | Output tokens | ${OUTPUT_TOKENS} |
+          | Cache creation tokens | ${CACHE_CREATION} |
+          | Cache read tokens | ${CACHE_READ} |
+          | **Total tokens** | **${TOTAL_TOKENS}** |
+          | **Estimated cost** | **\$${TOTAL_COST}** |
+          | **% of monthly limit** | **${PERCENT}%** (of ${MONTHLY_TOKEN_LIMIT}) |"
+
+          gh pr comment "$PR_NUMBER" --body "$BODY"
+
