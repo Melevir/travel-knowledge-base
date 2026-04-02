@@ -4,6 +4,20 @@
 
 ---
 
+## Логистика
+
+**Как добраться:** каждая локация доступна на метро или Overground — ближайшие станции указаны в таблице ниже. Contactless / Oyster; зоны 1–2 (большинство мест) — дневной кэп £8,90.
+
+**Часы работы:** варьируются по локациям — см. детали каждого места.
+
+---
+
+## Маршрут
+
+Статья описывает 12 независимых локаций; единого маршрута нет. Каждое место посещается отдельно или в удобной связке (например, St Dunstan + Postman's Park — оба в Сити, 10 мин пешком).
+
+---
+
 ## Обзор
 
 | # | Название | Район | Ближайшая станция | Линия | Вход | Изюминка |
@@ -23,7 +37,7 @@
 
 ---
 
-## Детали
+## Что не пропустить
 
 ### 1. St Dunstan in the East
 
@@ -197,9 +211,9 @@ National Trust: парк вдоль реки Wandle (передан Трасту
 
 ## Сезонные рекомендации
 
-| Сезон | Лучшие места | Что особенного |
-|---|---|---|
-| Весна (март–май) | Isabella Plantation, Cannizaro Park, Kyoto Garden | Азалии и рододендроны в Isabella Plantation (конец апреля); магнолии и крокусы в Cannizaro; японские клёны в Kyoto Garden |
-| Лето (июнь–август) | Phoenix Garden, Chelsea Physic Garden, Morden Hall Park | Пик цветения роз в Morden Hall Park; разнотравье и пчёлы в Phoenix Garden; летние выставки в Chelsea Physic Garden |
-| Осень (сентябрь–ноябрь) | Cannizaro Park, Kyoto Garden, St Dunstan in the East | Алые клёны в Cannizaro и Kyoto Garden; золотые листья в руинах St Dunstan |
-| Зима (декабрь–февраль) | Barbican Conservatory, Crossrail Place Roof Garden, St Dunstan in the East | Тропическое тепло Barbican в мороз; укрытый сад Crossrail; City практически пуст в выходные |
+| Сезон | Что интересно |
+|---|---|
+| Весна | Isabella Plantation (азалии и рододендроны, конец апреля); магнолии и крокусы в Cannizaro Park; японские клёны в Kyoto Garden |
+| Лето | Пик цветения роз в Morden Hall Park; разнотравье и пчёлы в Phoenix Garden; летние выставки в Chelsea Physic Garden |
+| Осень | Алые клёны в Cannizaro Park и Kyoto Garden; золотая листва в руинах St Dunstan in the East |
+| Зима | Тропическое тепло Barbican Conservatory в мороз; укрытый сад Crossrail Place в любую погоду; City пустует в выходные — лучшее время для St Dunstan |
