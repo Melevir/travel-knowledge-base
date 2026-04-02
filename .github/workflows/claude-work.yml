@@ -76,16 +76,20 @@ jobs:
           # Calculate percent of monthly limit
           PERCENT=$(echo "scale=2; $TOTAL_TOKENS * 100 / $MONTHLY_TOKEN_LIMIT" | bc)
 
-          # Find PR created from this branch
+          # Find PR: try branch_name output, then grep execution log for PR URL
+          PR_NUMBER=""
           BRANCH="${{ steps.claude.outputs.branch_name }}"
-          if [ -z "$BRANCH" ]; then
-            echo "No branch output, skipping PR comment"
-            exit 0
+          if [ -n "$BRANCH" ]; then
+            PR_NUMBER=$(gh pr list --head "$BRANCH" --json number --jq '.[0].number')
           fi
-
-          PR_NUMBER=$(gh pr list --head "$BRANCH" --json number --jq '.[0].number')
           if [ -z "$PR_NUMBER" ]; then
-            echo "No PR found for branch $BRANCH, skipping"
+            PR_NUMBER=$(grep -oP 'pull/\K[0-9]+' "$EXEC_FILE" | tail -1 || true)
+          fi
+          if [ -z "$PR_NUMBER" ]; then
+            PR_NUMBER=$(gh pr list --app claude --sort created --limit 1 --json number --jq '.[0].number')
+          fi
+          if [ -z "$PR_NUMBER" ]; then
+            echo "No PR found, skipping comment"
             exit 0
           fi
 
