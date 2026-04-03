@@ -19,6 +19,7 @@
 - [Корнуолл](uk/корнуолл.md)
 - [Виндзор](uk/windsor.md)
 - [Чичестер](uk/chichester.md)
+- [Замок Лидс (Кент)](uk/leeds-castle.md)
 - [Гастингс и Батл](uk/Гастингс.md)
 - [Стоунхендж и Солсбери](uk/stonehenge-salisbury.md)
 - [Кембридж](uk/Cambridge.md)
