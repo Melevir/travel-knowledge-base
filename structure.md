@@ -38,6 +38,7 @@
       - battersea-park.md
       - crystal-palace-park.md
       - hidden-parks-london.md
+      - london-nature-reserves.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md

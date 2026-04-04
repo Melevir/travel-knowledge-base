@@ -14,7 +14,7 @@
 
 ## Скрытые и малоизвестные парки Лондона
 - [x] Hidden parks London secret green spaces
-- [ ] London nature reserves walking routes
+- [x] London nature reserves walking routes
 - [ ] Sydenham Hill Wood walking trails ancient woodland London
 - [ ] Highgate Wood Queen's Wood walking routes
 - [ ] Oxleas Wood Eltham walking trails
