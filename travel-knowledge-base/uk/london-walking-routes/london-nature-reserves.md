@@ -14,6 +14,12 @@
 
 ---
 
+## Маршрут
+
+Статья описывает 10 независимых природных заповедников; единого маршрута нет. Каждый заповедник посещается отдельно. Удобные связки: Highgate Wood + Queen's Wood (через дорогу друг от друга), Woodberry Wetlands → Walthamstow Wetlands (по New River Path, ~12 км).
+
+---
+
 ## Сводная таблица
 
 | # | Название | Район | Ближайшая станция | Линия | Зона | Дистанция | Изюминка |
@@ -268,7 +274,7 @@ Morden tube station (старт, Northern line, зона 4)
 - **Запрещены:** Highgate Wood, Woodberry Wetlands, Camley Street Natural Park
 - **По выделенным дорожкам:** Walthamstow Wetlands, Morden Hall Park (Wandle Trail)
 - **Совместно (пешеходы + велосипеды):** Parkland Walk (приоритет у пешеходов), Oxleas Wood (Green Chain Walk)
-- **Разрешены на части маршрутов:** Lesnes Abbey Woods, Crane Park Island (River Crane Walk)
+- **Разрешены на части маршрутов:** Lesnes Abbey Woods
 
 ---
 
