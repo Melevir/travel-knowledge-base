@@ -23,6 +23,7 @@
     - Портсмут.md
     - Рочестер.md
     - корнуолл.md
+    - leeds-castle.md
     - stonehenge-salisbury.md
     - london-walking-routes
       - index.md
