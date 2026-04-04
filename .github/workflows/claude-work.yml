@@ -86,7 +86,7 @@ jobs:
             PR_NUMBER=$(grep -oP 'pull/\K[0-9]+' "$EXEC_FILE" | tail -1 || true)
           fi
           if [ -z "$PR_NUMBER" ]; then
-            PR_NUMBER=$(gh pr list --app claude --sort created --limit 1 --json number --jq '.[0].number')
+            PR_NUMBER=$(gh pr list --app claude --search "sort:created-desc" --limit 1 --json number --jq '.[0].number')
           fi
           if [ -z "$PR_NUMBER" ]; then
             echo "No PR found, skipping comment"
