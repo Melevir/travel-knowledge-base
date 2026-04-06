@@ -42,6 +42,7 @@
       - london-nature-reserves.md
       - sydenham-hill-wood.md
       - highgate-wood-queens-wood.md
+      - oxleas-wood.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
