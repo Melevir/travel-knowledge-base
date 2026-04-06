@@ -189,7 +189,7 @@ Finsbury Park Station (Victoria / Piccadilly line или Overground) [старт
 
 ---
 
-## Карты и ресурсы
+## Маршруты на карте
 
 - [AllTrails — Highgate Wood and Queen's Wood (3,5 км, лёгкий, 58 отзывов)](https://www.alltrails.com/en-gb/trail/england/london/highgate-wood-and-queen-s-wood)
 - [AllTrails — Highgate Wood Circular (3,5 км, лёгкий, 37 отзывов)](https://www.alltrails.com/en-gb/trail/england/london/highgate-wood-circular)
