@@ -27,6 +27,7 @@
 | [Стоунхендж и Солсбери](travel-knowledge-base/uk/stonehenge-salisbury.md) | ~1 ч 30 мин + авт. | Доисторический мегалит, самый высокий собор Англии, Хартия |
 | [Кембридж](travel-knowledge-base/uk/Cambridge.md) | ~49 мин | Университет, King's College Chapel, пантинг, The Eagle |
 | [Эдинбург](travel-knowledge-base/uk/edinburgh.md) | ~4 ч 20 мин | Замок, Royal Mile, Arthur's Seat, виски, фестивали |
+| [Борнмут и Пул](travel-knowledge-base/uk/борнмут-пул.md) | ~2 ч | Пляжный курорт, гавань Пула, Brownsea Island |
 
 ### Сводная таблица всех маршрутов
 
