@@ -18,7 +18,7 @@
 - [x] Sydenham Hill Wood walking trails ancient woodland London
 - [x] Highgate Wood Queen's Wood walking routes
 - [x] Oxleas Wood Eltham walking trails
-- [ ] London Wetland Centre Barnes walking routes
+- [x] London Wetland Centre Barnes walking routes
 - [ ] Parkland Walk London disused railway nature trail
 
 ## Country parks в часе от Лондона
