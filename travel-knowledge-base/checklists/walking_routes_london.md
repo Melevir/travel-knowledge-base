@@ -17,7 +17,7 @@
 - [x] London nature reserves walking routes
 - [x] Sydenham Hill Wood walking trails ancient woodland London
 - [x] Highgate Wood Queen's Wood walking routes
-- [ ] Oxleas Wood Eltham walking trails
+- [x] Oxleas Wood Eltham walking trails
 - [ ] London Wetland Centre Barnes walking routes
 - [ ] Parkland Walk London disused railway nature trail
 
