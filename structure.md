@@ -26,6 +26,7 @@
     - leeds-castle.md
     - stonehenge-salisbury.md
     - борнмут-пул.md
+    - бокс-хилл.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
@@ -53,6 +54,7 @@
     - Корнуолл.md
     - stonehenge-salisbury.md
     - walking_routes_london.md
+    - Бокс-Хилл.md
 
 ---
 
