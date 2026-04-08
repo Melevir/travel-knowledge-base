@@ -46,6 +46,7 @@
       - highgate-wood-queens-wood.md
       - oxleas-wood.md
       - london-wetland-centre.md
+      - parkland-walk.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
