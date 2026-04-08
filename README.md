@@ -29,6 +29,7 @@
 | [Эдинбург](travel-knowledge-base/uk/edinburgh.md) | ~4 ч 20 мин | Замок, Royal Mile, Arthur's Seat, виски, фестивали |
 | [Борнмут и Пул](travel-knowledge-base/uk/борнмут-пул.md) | ~2 ч | Пляжный курорт, гавань Пула, Brownsea Island |
 | [Бокс-Хилл](travel-knowledge-base/uk/бокс-хилл.md) | ~1 ч 10 мин | Видовая площадка на холме, маршруты Tour de France, меловые луга National Trust |
+| [Фолкстон](travel-knowledge-base/uk/Фолкстон.md) | ~55 мин | The Leas, Harbour Arm, Creative Quarter, Triennial |
 
 ### Сводная таблица всех маршрутов
 

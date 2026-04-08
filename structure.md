@@ -27,6 +27,7 @@
     - stonehenge-salisbury.md
     - борнмут-пул.md
     - бокс-хилл.md
+    - Фолкстон.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
