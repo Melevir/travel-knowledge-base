@@ -19,7 +19,7 @@
 - [x] Highgate Wood Queen's Wood walking routes
 - [x] Oxleas Wood Eltham walking trails
 - [x] London Wetland Centre Barnes walking routes
-- [ ] Parkland Walk London disused railway nature trail
+- [x] Parkland Walk London disused railway nature trail
 
 ## Country parks в часе от Лондона
 - [ ] Country parks near London within one hour public transport

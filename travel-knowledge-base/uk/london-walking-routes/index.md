@@ -31,6 +31,7 @@
 | 21 | [ ] | [Highgate Wood и Queen's Wood](highgate-wood-queens-wood.md) | Highgate (Northern) | 3 | 2,5–7,5 км | 1–2,5 ч | лёгкая | Два древних леса, Parkland Walk, летучие мыши, колокольчики, два кафе |
 | 22 | [ ] | [Oxleas Wood и Severndroog Castle](oxleas-wood.md) | Falconwood (NR) | 4 | 5–9 км | 1,5–3 ч | лёгкая–умеренная | 8000-летний лес, готическая башня с панорамой, колокольчики, Green Chain Walk |
 | 23 | [ ] | [London Wetland Centre (Барнс)](london-wetland-centre.md) | Barnes (NR) / Hammersmith | 3 | 2–7 км | 1–2,5 ч | лёгкая | 105 акров болот в черте Лондона, 180+ видов птиц, выдры, большая выпь |
+| 24 | [ ] | [Parkland Walk — заброшенная железная дорога](parkland-walk.md) | Finsbury Park (Victoria/Piccadilly) | 2–3 | ~5–8 км | 1,5–2,5 ч | лёгкая | Самый длинный линейный заповедник Лондона: платформы Кроуч-Энда, скульптура спригана, виадук с панорамой |
 
 > **Совет:** маршруты 1 и 2 можно объединить в один день (~14,5 км, 5–6 ч). Маршруты 3/4 и 6 тоже совмещаются — Richmond Park утром, Bushy Park после обеда.
 
