@@ -30,6 +30,7 @@
 | [Борнмут и Пул](travel-knowledge-base/uk/борнмут-пул.md) | ~2 ч | Пляжный курорт, гавань Пула, Brownsea Island |
 | [Бокс-Хилл](travel-knowledge-base/uk/бокс-хилл.md) | ~1 ч 10 мин | Видовая площадка на холме, маршруты Tour de France, меловые луга National Trust |
 | [Фолкстон](travel-knowledge-base/uk/Фолкстон.md) | ~55 мин | The Leas, Harbour Arm, Creative Quarter, Triennial |
+| [Одли-Энд + Сэффрон-Уолден](travel-knowledge-base/uk/audley-end-saffron-walden.md) | ~1 ч | Якобинский дворец, шафрановый рыночный городок |
 
 ### Сводная таблица всех маршрутов
 
