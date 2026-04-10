@@ -42,7 +42,7 @@
 | 32 | Норидж | Liverpool Street | ~1 ч 50 мин | £20–50 | Собор, замок, Норфолкские Бroads | |
 | 33 | Болье и Нью-Форест | Waterloo → Brockenhurst | ~1 ч 40 мин | £20–45 | National Motor Museum, дикие пони | |
 | 34 | Гилфорд | Waterloo | ~35 мин | £10–20 | Замок, собор, холмы Суррея | |
-| 35 | Бери-Сент-Эдмундс | Liverpool Street | ~1 ч 40 мин | £20–45 | Аббатство, собор, Georgian Market Town | |
+| 35 | [Бери-Сент-Эдмундс](bury-st-edmunds.md) | Liverpool Street | ~1 ч 50 мин | £24–30 | Аббатство, собор, Greene King, Georgian Market Town | |
 | 36 | Дил | St Pancras → Deal | ~1 ч 40 мин | £25–45 | Замок Генриха VIII, пляж, сохранившийся старый город | |
 | 37 | [Одли-Энд + Сэффрон-Уолден](audley-end-saffron-walden.md) | Liverpool Street | ~1 ч | £15–30 + вход | Якобинский дворец, зелёный рыночный городок | |
 | 38 | Фолкстон | St Pancras (HS1) | ~55 мин | £20–40 | Творческий квартал, Leas, прибрежные прогулки | |
