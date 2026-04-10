@@ -50,6 +50,7 @@
       - london-wetland-centre.md
       - parkland-walk.md
       - country-parks-near-london.md
+      - box-hill-surrey.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
