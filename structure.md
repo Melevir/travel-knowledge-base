@@ -29,6 +29,7 @@
     - бокс-хилл.md
     - Фолкстон.md
     - audley-end-saffron-walden.md
+    - Дил.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
