@@ -22,7 +22,7 @@
 - [x] Parkland Walk London disused railway nature trail
 
 ## Country parks в часе от Лондона
-- [ ] Country parks near London within one hour public transport
+- [x] Country parks near London within one hour public transport
 - [ ] Box Hill Surrey walking routes from train station
 - [ ] Ruislip Woods national nature reserve walking trails
 - [ ] Burnham Beeches walking routes from Slough station

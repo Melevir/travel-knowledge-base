@@ -49,6 +49,7 @@
       - oxleas-wood.md
       - london-wetland-centre.md
       - parkland-walk.md
+      - country-parks-near-london.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
