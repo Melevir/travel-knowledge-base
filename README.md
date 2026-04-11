@@ -32,6 +32,7 @@
 | [Фолкстон](travel-knowledge-base/uk/Фолкстон.md) | ~55 мин | The Leas, Harbour Arm, Creative Quarter, Triennial |
 | [Одли-Энд + Сэффрон-Уолден](travel-knowledge-base/uk/audley-end-saffron-walden.md) | ~1 ч | Якобинский дворец, шафрановый рыночный городок |
 | [Дил](travel-knowledge-base/uk/Дил.md) | ~1 ч 25 мин | Замки Генриха VIII, Middle Street, пирс, морепродукты |
+| [Бери-Сент-Эдмундс](travel-knowledge-base/uk/bury-st-edmunds.md) | ~1 ч 50 мин | Аббатство, собор, Greene King, георгианский центр |
 
 ### Сводная таблица всех маршрутов
 
