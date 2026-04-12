@@ -31,6 +31,7 @@
     - audley-end-saffron-walden.md
     - Дил.md
     - bury-st-edmunds.md
+    - гилфорд.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
