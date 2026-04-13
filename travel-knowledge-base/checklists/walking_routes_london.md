@@ -26,7 +26,7 @@
 - [x] Box Hill Surrey walking routes from train station
 - [x] Ruislip Woods national nature reserve walking trails
 - [x] Burnham Beeches walking routes from Slough station
-- [ ] Hatfield Forest walking routes from Bishop's Stortford
+- [x] Hatfield Forest walking routes from Bishop's Stortford
 - [ ] Lee Valley Regional Park walking trails from London
 - [ ] Epping Forest walking routes from Central line stations
 - [ ] Hainault Forest Country Park walking trails

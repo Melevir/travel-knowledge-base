@@ -56,6 +56,7 @@
       - box-hill-surrey.md
       - ruislip-woods.md
       - burnham-beeches.md
+      - hatfield-forest.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
