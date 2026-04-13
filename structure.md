@@ -32,6 +32,7 @@
     - Дил.md
     - bury-st-edmunds.md
     - гилфорд.md
+    - болье-нью-форест.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
