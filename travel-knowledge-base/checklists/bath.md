@@ -1,0 +1,50 @@
+- [x] History of Bath as Roman city Aquae Sulis
+- [x] Bath UNESCO World Heritage status
+- [x] Georgian architecture overview and history
+- [x] Royal Crescent: history, hours, prices, museum
+- [x] The Circus: history and architecture
+- [x] Pulteney Bridge and Great Pulteney Street
+- [x] Roman Baths: opening hours, prices, prebooking
+- [x] Roman Baths: what to see inside
+- [x] Bath Abbey: hours, prices, history
+- [x] Thermae Bath Spa: prices, booking, rooftop pool
+- [x] Jane Austen Centre: hours, prices
+- [x] Fashion Museum Bath: hours, prices
+- [x] Victoria Art Gallery: hours, prices
+- [ ] Museum of Bath Architecture
+- [x] Holburne Museum: hours, prices
+- [x] Transport from London: Paddington → Bath Spa train details
+- [x] Transport within Bath: buses, walking
+- [x] Bath Christmas Market dates and details
+- [x] Afternoon tea venues in Bath
+- [x] Sally Lunn's Bun: history and prices
+- [x] Independent restaurants in Bath
+- [x] Pubs and bars in Bath
+- [x] Coffee shops in Bath
+- [x] Bath Farmers Market
+- [x] Vegetarian and vegan options in Bath
+- [x] Prior Park Landscape Garden
+- [x] Alexandra Park viewpoint
+- [x] Bath Skyline Walk
+- [x] River Avon walks in Bath
+- [x] Hidden gems in Bath
+- [x] Free activities in Bath
+- [x] Bath weather and best time to visit
+- [x] Practical info: toilets, luggage storage
+- [x] Bath festivals and events calendar
+- [x] Bath Literary Festival
+- [ ] Bath Film Festival
+- [x] No.1 Royal Crescent Museum
+- [x] Museum of Bath at Work
+- [x] Beckford's Tower
+- [x] Bath Spa station facilities
+- [x] Great Pulteney Street architecture
+- [ ] Milsom Street and shopping in Bath
+- [ ] St James's Square Bath
+- [x] Bath street food and markets
+- [x] Recommended day trip itinerary for Bath
+- [x] Bath Abbey Tower Tours
+- [x] Crescent Fields and Royal Victoria Park
+- [x] Accommodation options in Bath
+- [x] One-day vs overnight stay in Bath
+- [x] Jane Austen's connection to Bath
