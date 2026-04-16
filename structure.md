@@ -59,6 +59,7 @@
       - ruislip-woods.md
       - burnham-beeches.md
       - hatfield-forest.md
+      - lee-valley-regional-park.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
