@@ -35,6 +35,7 @@
 | [Бери-Сент-Эдмундс](travel-knowledge-base/uk/bury-st-edmunds.md) | ~1 ч 50 мин | Аббатство, собор, Greene King, георгианский центр |
 | [Гилфорд](travel-knowledge-base/uk/гилфорд.md) | ~35–50 мин | Замок, Льюис Кэрролл, Watts Gallery, Surrey Hills |
 | [Болье и Нью-Форест](travel-knowledge-base/uk/болье-нью-форест.md) | ~1 ч 30 мин | National Motor Museum, Palace House, пони Нью-Фореста |
+| [Норидж](travel-knowledge-base/uk/norwich.md) | ~1 ч 50 мин | Норманнский замок, Elm Hill, собор XII в., Colman's Mustard |
 
 ### Сводная таблица всех маршрутов
 
