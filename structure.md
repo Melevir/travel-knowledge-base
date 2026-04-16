@@ -6,6 +6,7 @@
 
 Разделы документации:
 - uk
+    - bath.md
     - blenheim-woodstock.md
     - brighton.md
     - Cambridge.md
@@ -69,6 +70,7 @@
     - stonehenge-salisbury.md
     - walking_routes_london.md
     - Бокс-Хилл.md
+    - bath.md
 
 ---
 

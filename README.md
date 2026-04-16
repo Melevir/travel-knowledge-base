@@ -8,6 +8,7 @@
 
 | Направление | Время в пути | Главная изюминка |
 |---|---|---|
+| [Бат](travel-knowledge-base/uk/bath.md) | ~1 ч 25 мин | Roman Baths, Georgian архитектура, Thermae Spa |
 | [Оксфорд](travel-knowledge-base/uk/oxford.md) | ~44 мин | Университет, Бодлеана, Крайст-Черч |
 | [Брайтон](travel-knowledge-base/uk/brighton.md) | ~52 мин | Royal Pavilion, The Lanes, побережье |
 | [Бленхейм + Вудсток](travel-knowledge-base/uk/blenheim-woodstock.md) | ~1 ч 30 мин | Дворец Черчилля, ЮНЕСКО |
