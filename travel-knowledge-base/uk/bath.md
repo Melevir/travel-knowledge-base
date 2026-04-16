@@ -194,7 +194,7 @@ Bath Spa Station
 - **Bridgerton** (Netflix, 2020–) — несколько сцен сняты в Бате, Bath Street и Royal Crescent
 - **Les Misérables** (BBC, 2018) — улицы Бата вместо Парижа
 
-### Известные резиденты и уроженцы
+### Известные выпускники и уроженцы
 
 - **Джейн Остин** — жила 1801–1806; Northanger Abbey и Persuasion; Jane Austen Centre на Gay Street
 - **Томас Гейнсборо** — жил в Бате 1759–1774; написал более 100 портретов местной знати; его работы в Holburne Museum
