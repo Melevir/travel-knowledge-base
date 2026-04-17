@@ -60,6 +60,7 @@
       - burnham-beeches.md
       - hatfield-forest.md
       - lee-valley-regional-park.md
+      - epping-forest.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md

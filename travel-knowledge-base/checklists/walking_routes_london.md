@@ -28,7 +28,7 @@
 - [x] Burnham Beeches walking routes from Slough station
 - [x] Hatfield Forest walking routes from Bishop's Stortford
 - [x] Lee Valley Regional Park walking trails from London
-- [ ] Epping Forest walking routes from Central line stations
+- [x] Epping Forest walking routes from Central line stations
 - [ ] Hainault Forest Country Park walking trails
 - [ ] Trent Park Enfield walking routes
 - [ ] Cassiobury Park Watford walking trails
