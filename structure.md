@@ -32,6 +32,7 @@
     - audley-end-saffron-walden.md
     - Дил.md
     - bury-st-edmunds.md
+    - Cheltenham.md
     - гилфорд.md
     - болье-нью-форест.md
     - norwich.md
@@ -63,6 +64,7 @@
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
+    - Cheltenham.md
     - edinburgh.md
     - liverpool.md
     - Гастингс.md
