@@ -38,7 +38,7 @@
 | 28 | [ ] | [Burnham Beeches — древний буковый лес](burnham-beeches.md) | Slough (Elizabeth line) + авт. X74 | за TfL | 3,2–8 км | 45 мин–2,5 ч | лёгкая–умеренная | 420+ древних поллардных буков и дубов (400–800 лет), Дуб Друидов, Mendelssohn's Walk, богатейшая грибная фауна |
 | 29 | [ ] | [Hatfield Forest — королевский лес](hatfield-forest.md) | Bishop's Stortford (NR) + Flitch Way | за TfL | 2,7–11 км | 1–3 ч | лёгкая–умеренная | Средневековый королевский лес, озеро Кэпэбилити Брауна, Georgian Shell House, дикие лани, 1000-летний клён, топ-10 UK по сапроксильным жукам |
 | 30 | [ ] | [Lee Valley Regional Park](lee-valley-regional-park.md) | Tottenham Hale / Cheshunt / Broxbourne (NR) | 3 – за TfL | 3–11,5 км | 1–3 ч | лёгкая | 26-мильный парк вдоль реки Ли: Walthamstow Wetlands (крупнейший городской водно-болотный заповедник Европы), 200+ видов птиц, Cornmill Meadows, Rye House Gatehouse, White Water Centre |
-| 31 | [ ] | [Epping Forest](epping-forest.md) | Loughton / Theydon Bois / Chingford (Central + Overground) | 4–6 | 4–11 км | 1–3 ч | лёгкая–умеренная | 2 500 га древнего леса на Central line: 55 000 деревьев-ветеранов, стада лани, Iron Age форты, bluebells в апреле–мае, 10 маркированных маршрутов |
+| 31 | [ ] | [Epping Forest — маршруты от Central line](epping-forest.md) | Loughton / Theydon Bois / Epping (Central) | 4–6 | 5,6–25 км | 1,5–7 ч | лёгкая–высокая | 6 000 акров древнего леса: поллардные буки 500 лет, два железновозрастных городища, лани, Connaught Water, Queen Elizabeth's Hunting Lodge, High Beach |
 
 > **Совет:** маршруты 1 и 2 можно объединить в один день (~14,5 км, 5–6 ч). Маршруты 3/4 и 6 тоже совмещаются — Richmond Park утром, Bushy Park после обеда.
 
