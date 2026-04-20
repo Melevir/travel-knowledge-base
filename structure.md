@@ -35,6 +35,7 @@
     - гилфорд.md
     - болье-нью-форест.md
     - norwich.md
+    - челтнем.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md

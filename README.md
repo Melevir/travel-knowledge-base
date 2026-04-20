@@ -37,6 +37,7 @@
 | [Гилфорд](travel-knowledge-base/uk/гилфорд.md) | ~35–50 мин | Замок, Льюис Кэрролл, Watts Gallery, Surrey Hills |
 | [Болье и Нью-Форест](travel-knowledge-base/uk/болье-нью-форест.md) | ~1 ч 30 мин | National Motor Museum, Palace House, пони Нью-Фореста |
 | [Норидж](travel-knowledge-base/uk/norwich.md) | ~1 ч 50 мин | Норманнский замок, Elm Hill, собор XII в., Colman's Mustard |
+| [Челтнем](travel-knowledge-base/uk/челтнем.md) | ~2 ч 10 мин | Регентская архитектура, Pittville Pump Room, скачки, фестивали |
 
 ### Сводная таблица всех маршрутов
 
