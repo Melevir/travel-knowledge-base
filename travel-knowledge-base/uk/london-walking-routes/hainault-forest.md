@@ -12,22 +12,23 @@
 |---|---|---|---|
 | Central line → пешком | Hainault station (зона 4) → ~30 мин пешком по New North Road до главного входа | ~55–60 мин | Scenic walk через жилые кварталы |
 | Central line → автобус | Hainault station → автобус **247** или **362** до остановки **Fowler Road** | ~40–45 мин | Остановка у главных ворот (Romford Road), ~560 м / 8 мин пешком до входа |
+| Central line → автобус | Grange Hill station (зона 4) → автобус **362** до главного входа | ~40–45 мин | Маршрут 362 идёт от Grange Hill прямо к парку; интервал ~30 мин |
 | National Rail → автобус | Romford station (NR) → автобус **247** до остановки **Fowler Road** | ~50 мин | Из Liverpool Street ~20 мин до Romford |
-| Автобус 150 | Hainault station или Romford → Chigwell Row (восточный вход) | — | Удобен для маршрутов от Lambourne Road |
+| Автобус 150 | Gants Hill (Central line) или Ilford (NR) → Chigwell Row (восточный вход) | — | Удобен для маршрутов от Lambourne Road / Woodland Trust |
 
 **Адрес:** Romford Road, Chigwell, IG7 4QN  
 **What3words (главный вход):** ///soil.beans.backs
 
 **Оплата:** Contactless / Oyster; дневной кэп зон 1–4 — £12,80.
 
-**На машине:** два платных паркинга у Forest Centre (оплата через приложение RingGo, без наличных): до 1 ч — £1,80, до 2 ч — £3,10, весь день — £6,40. Бесплатные парковки Woodland Trust — с противоположной стороны, на Lambourne Road / Manor Road; бывают переполнены в выходные. Синий значок — бесплатно.
+**На машине:** два платных паркинга у Forest Centre (оплата через **RingGo** — приложение или звонок 020 3046 0010; наличные не принимаются): до 1 ч — £1,80, до 2 ч — £3,10, весь день — £6,40. Мотоциклы — бесплатно в обозначенной зоне. Бесплатные парковки Woodland Trust — с противоположной стороны, на Lambourne Road / Manor Road; бывают переполнены в выходные. Синий значок — бесплатно.
 
 **Часы работы:**
 - Лес — ежедневно, круглосуточно.
-- **1856 Café** — пн–вс 9:00–17:00 (летнее расписание с конца марта; зимние часы — уточнять на сайте).
+- **1856 Café** — лето (апрель–сентябрь): пн–вс 9:00–17:00; зима (октябрь–март): пн–вс 10:00–16:00. По сб и вс — воскресный ростер (говядина/курица/вегетарианский); яйца с фермы Foxburrows.
 - **Woodland Trust Visitor Centre** — ср–вс 11:00–15:00; пн–вт закрыт.
-- **Foxburrows Farm** — апрель–сентябрь 10:00–17:00; октябрь–март 10:00–16:00; в школьные каникулы и праздники — ежедневно; в учебное время пн — закрыто.
-- Платный паркинг: ворота закрываются с закатом (расписание меняется ежемесячно — проверяйте на сайте); уходить — минимум за 15 минут до закрытия ворот.
+- **Foxburrows Farm** — лето (апрель–сентябрь): 10:00–17:00, последний вход 16:15; зима (октябрь–март): 10:00–16:00, последний вход 15:30. В школьные каникулы и праздники — ежедневно; в учебное время пн — закрыто.
+- Платный паркинг: ворота закрываются через 30 мин после захода солнца (время меняется ежемесячно — проверяйте на сайте); уходить — минимум за 15 минут до этого момента.
 
 ---
 
@@ -225,14 +226,20 @@ Noak Hill (старт, Cummings Hall Lane, у паба Deers Rest)
 
 ## Детская площадка
 
-**Foxburrows Farm** — альпаки, пони, козы, павлины, овцы, утки, куры; апр–сент 10:00–17:00, окт–март 10:00–16:00 (пн закрыто в учебные дни). Вход свободный (рекомендуемое пожертвование £1/ребёнок, £2/взрослый). **Thomas Train** (детский паровоз) — £3/чел., работает в сезон. Бесплатно.
+**Foxburrows Farm** — альпаки, пони, козы, павлины, овцы, утки, куры; апр–сент 10:00–17:00, окт–март 10:00–16:00 (пн закрыто в учебные дни). Вход свободный (рекомендуемое пожертвование £1/ребёнок, £2/взрослый). **Thomas Train** (детский паровоз) — £3/чел., работает в сезон, все выходные и каникулы.
+
+**Приключенческая площадка** — рядом с фермой Foxburrows; бесплатно.
+
+**Spooky Trail** (Хэллоуин, конец октября) — платная вечерняя прогулка по украшенному лесу, £5/чел. включая горячее какао. Ежегодное событие. Школьные каникулы: мастерские лесников (bushcraft, определение деревьев, поиск насекомых, рисование), запись через [bookwhen.com/hainault-forest](https://bookwhen.com/hainault-forest).
 
 ---
 
 ## Маршруты на карте
 
 - [The Two Brewers and Hainault Forest Circular (AllTrails)](https://www.alltrails.com/trail/england/essex/the-two-brewers-and-hainault-forest-walk) — популярная кольцевая ~7 км с отзывами и фото
-- [Официальные маршруты Hainault Forest](https://hainaultforest.org/discover-the-forest/trails/) — 9 waymarked trail с PDF-картами и описаниями; все маршруты оценены по системе Paths For All
+- [Hainault Forest and Foxburrows Circular (AllTrails)](https://www.alltrails.com/en-gb/trail/england/essex/hainault-forest-and-foxburrows-circular) — 6,2 км через ядро леса
+- [Pinewoods to Hainault Forest (AllTrails)](https://www.alltrails.com/trail/england/london/pinewoods-to-hainault-forest) — маршрут от Grange Hill через поля к лесу
+- [Официальные маршруты Hainault Forest](https://hainaultforest.org/discover-the-forest/trails/) — 9 waymarked trail с картами на сайте; все оценены по системе Paths For All (GPX для скачивания не предоставляются)
 - [Hainault Forest (Woodland Trust)](https://www.woodlandtrust.org.uk/visiting-woods/woods/hainault-forest/) — информация о лесе, историческая справка, интерактивная карта
 - [Hainault Forest Country Park (Komoot)](https://www.komoot.com/guide/203178/hiking-around-hainault-forest) — подборка 370+ маршрутов разной длины с GPS-треками
 
