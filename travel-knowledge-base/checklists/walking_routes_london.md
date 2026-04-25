@@ -29,7 +29,7 @@
 - [x] Hatfield Forest walking routes from Bishop's Stortford
 - [x] Lee Valley Regional Park walking trails from London
 - [x] Epping Forest walking routes from Central line stations
-- [ ] Hainault Forest Country Park walking trails
+- [x] Hainault Forest Country Park walking trails
 - [ ] Trent Park Enfield walking routes
 - [ ] Cassiobury Park Watford walking trails
 
