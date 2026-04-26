@@ -36,6 +36,7 @@
     - болье-нью-форест.md
     - norwich.md
     - челтнем.md
+    - Гластонбери и Уэллс.md
     - london-walking-routes
       - index.md
       - central-royal-parks-walk.md
