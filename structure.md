@@ -62,6 +62,7 @@
       - hatfield-forest.md
       - lee-valley-regional-park.md
       - epping-forest.md
+      - hainault-forest.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
