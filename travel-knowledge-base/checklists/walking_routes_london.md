@@ -1,24 +1,24 @@
 # Парки и пешеходные маршруты в часе от Лондона — поисковые запросы
 
 ## Королевские и крупные парки Лондона
-- [x] Royal Parks London complete list walking routes
-- [x] Hyde Park Kensington Gardens walking trails map
-- [x] Richmond Park walking routes circular walks
-- [x] Hampstead Heath walking trails best routes
-- [x] Greenwich Park walking routes panoramic views
-- [x] Regent's Park walking trails Primrose Hill
-- [x] Bushy Park walking routes deer park trails
-- [x] Victoria Park East London walking routes
-- [x] Battersea Park walking trails riverside
-- [x] Crystal Palace Park walking routes dinosaurs trail
+- ✅ Royal Parks London complete list walking routes
+- ✅ Hyde Park Kensington Gardens walking trails map
+- ✅ Richmond Park walking routes circular walks
+- ✅ Hampstead Heath walking trails best routes
+- ✅ Greenwich Park walking routes panoramic views
+- ✅ Regent's Park walking trails Primrose Hill
+- ✅ Bushy Park walking routes deer park trails
+- ✅ Victoria Park East London walking routes
+- ✅ Battersea Park walking trails riverside
+- ✅ Crystal Palace Park walking routes dinosaurs trail
 
 ## Скрытые и малоизвестные парки Лондона
-- [x] Hidden parks London secret green spaces
-- [x] London nature reserves walking routes
-- [x] Sydenham Hill Wood walking trails ancient woodland London
-- [x] Highgate Wood Queen's Wood walking routes
-- [x] Oxleas Wood Eltham walking trails
-- [x] London Wetland Centre Barnes walking routes
+- ✅ Hidden parks London secret green spaces
+- ✅ London nature reserves walking routes
+- ✅ Sydenham Hill Wood walking trails ancient woodland London
+- ✅ Highgate Wood Queen's Wood walking routes
+- ✅ Oxleas Wood Eltham walking trails
+- ✅ London Wetland Centre Barnes walking routes
 - [x] Parkland Walk London disused railway nature trail
 
 ## Country parks в часе от Лондона

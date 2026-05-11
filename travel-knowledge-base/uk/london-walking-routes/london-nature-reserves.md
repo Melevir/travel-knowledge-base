@@ -22,18 +22,18 @@
 
 ## Сводная таблица
 
-| # | Название | Район | Ближайшая станция | Линия | Зона | Дистанция | Изюминка |
-|---|---|---|---|---|---|---|---|
-| 1 | Walthamstow Wetlands | Waltham Forest | Tottenham Hale | Victoria | 3 | 13+ км путей | Крупнейший городской водно-болотный заповедник Европы, цапли, скопы |
-| 2 | Woodberry Wetlands | Hackney | Manor House | Piccadilly | 2/3 | ~3 км | Тростниковое болото у резервуара, открытое Дэвидом Аттенборо |
-| 3 | Parkland Walk | Haringey / Islington | Finsbury Park | Piccadilly, Victoria | 2–3 | ~7 км | Заброшенная железная дорога, 300+ видов цветов, лучшая лисья тропа |
-| 4 | Sydenham Hill Wood | Southwark | Sydenham Hill | SE / Thameslink | 3 | ~5–7 км | Один из крупнейших уцелевших фрагментов древнего Great North Wood |
-| 5 | Highgate Wood | Haringey | Highgate | Northern | 3 | ~3–5 км | Дубово-грабовый лес времён Domesday Book, все три вида дятлов |
-| 6 | Queen's Wood | Haringey | Highgate | Northern | 3 | ~2–4 км | Старый лес с кафе сообщества, Wood Anemone, местная реликвия |
-| 7 | Oxleas Wood | Greenwich | Falconwood | SE / Thameslink | 4 | ~6–8 км | Лесу 8000 лет — с конца последнего ледниковья; Green Chain Walk |
-| 8 | Camley Street Natural Park | Camden | King's Cross | 8 линий | 1 | ~0,5 км | Болота и заросли в 2 минутах от St Pancras; зимородки в центре города |
-| 9 | Lesnes Abbey Woods | Bexley | Abbey Wood | Elizabeth, SE | 4 | ~4–6 км | Руины аббатства XII в., 3 цветных маршрута, Green Chain Walk |
-| 10 | Morden Hall Park | Merton | Morden | Northern | 4 | ~5 км | National Trust, водяная мельница, Wandle Trail вдоль меловой реки |
+| # | Пройден | Название | Район | Ближайшая станция | Линия | Зона | Дистанция | Изюминка |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [ ] | Walthamstow Wetlands | Waltham Forest | Tottenham Hale | Victoria | 3 | 13+ км путей | Крупнейший городской водно-болотный заповедник Европы, цапли, скопы |
+| 2 | [ ] | Woodberry Wetlands | Hackney | Manor House | Piccadilly | 2/3 | ~3 км | Тростниковое болото у резервуара, открытое Дэвидом Аттенборо |
+| 3 | ✅ | Parkland Walk | Haringey / Islington | Finsbury Park | Piccadilly, Victoria | 2–3 | ~7 км | Заброшенная железная дорога, 300+ видов цветов, лучшая лисья тропа |
+| 4 | [ ] | Sydenham Hill Wood | Southwark | Sydenham Hill | SE / Thameslink | 3 | ~5–7 км | Один из крупнейших уцелевших фрагментов древнего Great North Wood |
+| 5 | [ ] | Highgate Wood | Haringey | Highgate | Northern | 3 | ~3–5 км | Дубово-грабовый лес времён Domesday Book, все три вида дятлов |
+| 6 | [ ] | Queen's Wood | Haringey | Highgate | Northern | 3 | ~2–4 км | Старый лес с кафе сообщества, Wood Anemone, местная реликвия |
+| 7 | [ ] | Oxleas Wood | Greenwich | Falconwood | SE / Thameslink | 4 | ~6–8 км | Лесу 8000 лет — с конца последнего ледниковья; Green Chain Walk |
+| 8 | [ ] | Camley Street Natural Park | Camden | King's Cross | 8 линий | 1 | ~0,5 км | Болота и заросли в 2 минутах от St Pancras; зимородки в центре города |
+| 9 | [ ] | Lesnes Abbey Woods | Bexley | Abbey Wood | Elizabeth, SE | 4 | ~4–6 км | Руины аббатства XII в., 3 цветных маршрута, Green Chain Walk |
+| 10 | [ ] | Morden Hall Park | Merton | Morden | Northern | 4 | ~5 км | National Trust, водяная мельница, Wandle Trail вдоль меловой реки |
 
 ---
 

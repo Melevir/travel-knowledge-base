@@ -1,8 +1,9 @@
 name: Claude Work
 
 on:
-  schedule:
-    - cron: '0 13 * * *'
+  # schedule temporarily disabled
+  # schedule:
+  #   - cron: '0 13 * * *'
   workflow_dispatch:
 
 jobs:

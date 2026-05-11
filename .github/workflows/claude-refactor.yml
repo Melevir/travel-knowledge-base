@@ -1,8 +1,9 @@
 name: Claude Refactor
 
 on:
-  schedule:
-    - cron: '0 19 */3 * *'
+  # schedule temporarily disabled
+  # schedule:
+  #   - cron: '0 19 */3 * *'
   workflow_dispatch:
 
 jobs:

@@ -1,8 +1,9 @@
 name: Claude Research Trail
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
+  # schedule temporarily disabled
+  # schedule:
+  #   - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
