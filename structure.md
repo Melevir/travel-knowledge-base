@@ -25,6 +25,7 @@
     - Портсмут.md
     - Рочестер.md
     - корнуолл.md
+    - котсуолдс.md
     - leeds-castle.md
     - stonehenge-salisbury.md
     - борнмут-пул.md
@@ -72,6 +73,7 @@
     - Рочестер.md
     - Портсмут.md
     - Корнуолл.md
+    - котсуолдс.md
     - stonehenge-salisbury.md
     - walking_routes_london.md
     - Бокс-Хилл.md
