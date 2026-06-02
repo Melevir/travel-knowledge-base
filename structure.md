@@ -15,6 +15,7 @@
     - canterbury.md
     - edinburgh.md
     - ely.md
+    - hever-castle.md
     - isle-of-wight.md
     - liverpool.md
     - london-day-trips.md
@@ -90,6 +91,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - hever-castle.md
     - colchester.md
     - southend-on-sea.md
     - margate.md
