@@ -21,6 +21,7 @@
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
 | [Кентербери](travel-knowledge-base/uk/canterbury.md) | ~55 мин | Кафедральный собор, ЮНЕСКО, паломничество Чосера |
 | [Портсмут](travel-knowledge-base/uk/Портсмут.md) | 1.5–1 ч 40 мин | Historic Dockyard, HMS Victory, Spinnaker Tower |
+| [Остров Уайт](travel-knowledge-base/uk/isle-of-wight.md) | ~2.5–3 ч (+ паром) | The Needles, Osborne House, Carisbrooke, пляжи |
 | [Корнуолл](travel-knowledge-base/uk/корнуолл.md) | ~5 ч 30 мин (ночной поезд) | Eden Project, St Michael's Mount, серфинг, пасти |
 | [Виндзор](travel-knowledge-base/uk/windsor.md) | ~35–55 мин | Королевский замок, Great Park, Итон |
 | [Чичестер](travel-knowledge-base/uk/chichester.md) | ~1 ч 32–50 мин | Собор с витражом Шагала, Fishbourne Roman Palace, Pallant House Gallery |

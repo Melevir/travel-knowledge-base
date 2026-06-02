@@ -14,6 +14,7 @@
     - canterbury.md
     - edinburgh.md
     - ely.md
+    - isle-of-wight.md
     - liverpool.md
     - london-day-trips.md
     - oxford.md
@@ -71,6 +72,7 @@
     - Cambridge.md
     - canterbury.md
     - edinburgh.md
+    - isle-of-wight.md
     - liverpool.md
     - Гастингс.md
     - Рочестер.md
