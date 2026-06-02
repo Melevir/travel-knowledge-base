@@ -30,6 +30,7 @@
     - корнуолл.md
     - котсуолдс.md
     - leeds-castle.md
+    - lewes.md
     - stonehenge-salisbury.md
     - stratford-upon-avon.md
     - борнмут-пул.md
@@ -85,6 +86,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - lewes.md
     - winchester.md
 
 ---
