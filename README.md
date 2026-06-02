@@ -19,7 +19,9 @@
 | [Рочестер](travel-knowledge-base/uk/Рочестер.md) | ~35–43 мин | Замок, собор, Диккенс |
 | [Рай](travel-knowledge-base/uk/rye.md) | ~1 ч 30–50 мин | Средневековые улочки, Mermaid Street |
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
+| [Кентербери](travel-knowledge-base/uk/canterbury.md) | ~55 мин | Кафедральный собор, ЮНЕСКО, паломничество Чосера |
 | [Портсмут](travel-knowledge-base/uk/Портсмут.md) | 1.5–1 ч 40 мин | Historic Dockyard, HMS Victory, Spinnaker Tower |
+| [Остров Уайт](travel-knowledge-base/uk/isle-of-wight.md) | ~2.5–3 ч (+ паром) | The Needles, Osborne House, Carisbrooke, пляжи |
 | [Корнуолл](travel-knowledge-base/uk/корнуолл.md) | ~5 ч 30 мин (ночной поезд) | Eden Project, St Michael's Mount, серфинг, пасти |
 | [Виндзор](travel-knowledge-base/uk/windsor.md) | ~35–55 мин | Королевский замок, Great Park, Итон |
 | [Чичестер](travel-knowledge-base/uk/chichester.md) | ~1 ч 32–50 мин | Собор с витражом Шагала, Fishbourne Roman Palace, Pallant House Gallery |
@@ -39,6 +41,10 @@
 | [Норидж](travel-knowledge-base/uk/norwich.md) | ~1 ч 50 мин | Норманнский замок, Elm Hill, собор XII в., Colman's Mustard |
 | [Челтнем](travel-knowledge-base/uk/челтнем.md) | ~2 ч 10 мин | Регентская архитектура, Pittville Pump Room, скачки, фестивали |
 | [Арундел](travel-knowledge-base/uk/arundel.md) | ~1 ч 20 мин | Замок герцогов Норфолкских, собор, Wetland Centre, тюльпаны |
+| [Льюис](travel-knowledge-base/uk/lewes.md) | ~1 ч 5 мин | Нормандский замок, Bonfire Night, Bloomsbury, Harvey's |
+| [Винчестер](travel-knowledge-base/uk/winchester.md) | ~56 мин | Собор, могила Джейн Остин, Круглый стол короля Артура |
+| [Стратфорд-апон-Эйвон](travel-knowledge-base/uk/stratford-upon-avon.md) | ~2 ч 10 мин | Родина Шекспира, RSC, дома Шекспировского треста |
+| [Котсуолдс](travel-knowledge-base/uk/котсуолдс.md) | ~1 ч 35 мин | Honey-stone деревни, Arlington Row, Cotswold Way, пабы с 975 года |
 
 ### Сводная таблица всех маршрутов
 
