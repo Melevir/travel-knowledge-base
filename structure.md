@@ -7,6 +7,7 @@
 
 Разделы документации:
 - uk
+    - arundel.md
     - bath.md
     - blenheim-woodstock.md
     - brighton.md
@@ -76,6 +77,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - arundel.md
 
 ---
 
