@@ -16,6 +16,7 @@
 - [Эли](uk/ely.md)
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
+- [Кентербери](uk/canterbury.md)
 - [Портсмут](uk/Портсмут.md)
 - [Остров Уайт](uk/isle-of-wight.md)
 - [Корнуолл](uk/корнуолл.md)
@@ -36,6 +37,8 @@
 - [Болье и Нью-Форест](uk/болье-нью-форест.md)
 - [Норидж](uk/norwich.md)
 - [Челтнем](uk/челтнем.md)
+- [Стратфорд-апон-Эйвон](uk/stratford-upon-avon.md)
+- [Котсуолдс](uk/котсуолдс.md)
 
 ## Пешеходные маршруты по Лондону
 
@@ -51,3 +54,5 @@
 - [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
 - [Кембридж](checklists/Cambridge.md)
 - [Остров Уайт](checklists/isle-of-wight.md)
+- [Стратфорд-апон-Эйвон](checklists/stratford-upon-avon.md)
+- [Кентербери](checklists/canterbury.md)
