@@ -11,8 +11,10 @@
     - blenheim-woodstock.md
     - brighton.md
     - Cambridge.md
+    - canterbury.md
     - edinburgh.md
     - ely.md
+    - isle-of-wight.md
     - liverpool.md
     - london-day-trips.md
     - oxford.md
@@ -26,8 +28,10 @@
     - Портсмут.md
     - Рочестер.md
     - корнуолл.md
+    - котсуолдс.md
     - leeds-castle.md
     - stonehenge-salisbury.md
+    - stratford-upon-avon.md
     - борнмут-пул.md
     - бокс-хилл.md
     - Фолкстон.md
@@ -67,13 +71,17 @@
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
+    - canterbury.md
     - edinburgh.md
+    - isle-of-wight.md
     - liverpool.md
     - Гастингс.md
     - Рочестер.md
     - Портсмут.md
     - Корнуолл.md
+    - котсуолдс.md
     - stonehenge-salisbury.md
+    - stratford-upon-avon.md
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
