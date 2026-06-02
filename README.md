@@ -19,6 +19,7 @@
 | [Рочестер](travel-knowledge-base/uk/Рочестер.md) | ~35–43 мин | Замок, собор, Диккенс |
 | [Рай](travel-knowledge-base/uk/rye.md) | ~1 ч 30–50 мин | Средневековые улочки, Mermaid Street |
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
+| [Кентербери](travel-knowledge-base/uk/canterbury.md) | ~55 мин | Кафедральный собор, ЮНЕСКО, паломничество Чосера |
 | [Портсмут](travel-knowledge-base/uk/Портсмут.md) | 1.5–1 ч 40 мин | Historic Dockyard, HMS Victory, Spinnaker Tower |
 | [Корнуолл](travel-knowledge-base/uk/корнуолл.md) | ~5 ч 30 мин (ночной поезд) | Eden Project, St Michael's Mount, серфинг, пасти |
 | [Виндзор](travel-knowledge-base/uk/windsor.md) | ~35–55 мин | Королевский замок, Great Park, Итон |

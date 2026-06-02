@@ -16,6 +16,7 @@
 - [Эли](uk/ely.md)
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
+- [Кентербери](uk/canterbury.md)
 - [Портсмут](uk/Портсмут.md)
 - [Корнуолл](uk/корнуолл.md)
 - [Виндзор](uk/windsor.md)
@@ -50,3 +51,4 @@
 - [Гастингс](checklists/Гастингс.md)
 - [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
 - [Кембридж](checklists/Cambridge.md)
+- [Кентербери](checklists/canterbury.md)
