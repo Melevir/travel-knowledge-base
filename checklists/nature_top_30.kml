@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>30 лучших природных мест из Лондона</name>
+  <description>Однодневные поездки из Лондона — природа, виды, деревни</description>
+
+  <Style id="surrey">
+    <IconStyle><color>ff2255cc</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="chilterns">
+    <IconStyle><color>ff22cc55</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="kent">
+    <IconStyle><color>ffcc5522</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="southdowns">
+    <IconStyle><color>ff9922cc</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="thames">
+    <IconStyle><color>ff22cccc</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="coast">
+    <IconStyle><color>ffcc9922</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/org-circle.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="special">
+    <IconStyle><color>ffcc2299</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+  </Style>
+
+  <!-- Surrey Hills -->
+  <Folder>
+    <name>Surrey Hills</name>
+
+    <Placemark>
+      <name>Box Hill</name>
+      <styleUrl>#surrey</styleUrl>
+      <description><![CDATA[
+        <p>Самый известный видовой холм Суррея — меловой уступ над рекой Молл, панорама на 50 км, популярен у велосипедистов и пешеходов.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Box_Hill_Salomons_Memorial.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/201m_Boxhill%2C_July_82_%2852560936399%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/A_Wet_Day_on_Box_Hill_-_geograph.org.uk_-_6432557.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.3063,51.2522,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Leith Hill</name>
+      <styleUrl>#surrey</styleUrl>
+      <description><![CDATA[
+        <p>Высшая точка Суррея (294 м) с башней Georgian folly — в ясную погоду виден Лондон и Ла-Манш одновременно.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Leith_Hill_Place_2.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bench_View,_Leith_Hill,_Surrey_-_geograph.org.uk_-_1403821.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Brockham_Warren_from_Leith_Hill_-_geograph.org.uk_-_658442.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.3815,51.1764,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Newlands Corner</name>
+      <styleUrl>#surrey</styleUrl>
+      <description><![CDATA[
+        <p>Открытый меловой уступ над Гилдфордом с видом на половину Суррея — популярное место для рассветов и закатов.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Flower_Bank%2C_Newlands_Corner_-_geograph.org.uk_-_460438.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/A_cameraman_in_woods_at_Newlands_Corner%2C_Albury_Downs%2C_north_of_Albury%2C_Surrey%2C_2009_%281149112%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/A25%2C_Newlands_Corner_-_geograph.org.uk_-_3209288.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.5083,51.2344,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Frensham Great Pond</name>
+      <styleUrl>#surrey</styleUrl>
+      <description><![CDATA[
+        <p>Огромный естественный пруд среди вересковой пустоши к югу от Фарнема — песчаные берега, одиночество и кайты.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Frensham_Great_Pond_-_geograph.org.uk_-_276897.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/A_corner_of_Frensham_Little_Pond_-_geograph.org.uk_-_4954175.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bell_heather%2C_Frensham_Ponds_-_geograph.org.uk_-_4608185.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.7706,51.1444,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shere</name>
+      <styleUrl>#surrey</styleUrl>
+      <description><![CDATA[
+        <p>Один из красивейших деревенских пабов Суррея на берегу ручья Тилл — типичная английская деревня в котловине холмов.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/John_Barlow_-_Shere%2C_Surrey_-_Sarjeant_Gallery.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Bodryn_Cottage_and_Forge_Cottage%2C_Middle_Street%2C_Shere%2C_England_1938_-_9-013.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Shere_Village_-_geograph.org.uk_-_1384407.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.4624,51.2261,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <!-- Chilterns -->
+  <Folder>
+    <name>Chilterns</name>
+
+    <Placemark>
+      <name>Ivinghoe Beacon</name>
+      <styleUrl>#chilterns</styleUrl>
+      <description><![CDATA[
+        <p>Самая фотогеничная вершина Чилтернов — открытый холм с видом на долину Айлсбери, начало Ridgeway.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ivinghoe_Beacon_seen_from_The_Ridgeway.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Beacon_Hill_-_geograph.org.uk_-_5277185.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fir_tree_on_Ivinghoe_Beacon_hillside_-_geograph.org.uk_-_7076143.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.6159,51.8388,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Coombe Hill</name>
+      <styleUrl>#chilterns</styleUrl>
+      <description><![CDATA[
+        <p>Высшая смотровая точка Чилтернов (260 м) с монументом — виды на Оксфордшир и Бакингемшир.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Coombe_Hill_Monument.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/A_frosty_Coombe_Hill_-_geograph.org.uk_-_1196887.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Approaching_the_top_of_Coombe_Hill_-_geograph.org.uk_-_2741774.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.8127,51.7411,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Ashridge Estate</name>
+      <styleUrl>#chilterns</styleUrl>
+      <description><![CDATA[
+        <p>5000 акров букового леса National Trust у Беркхамстеда — в октябре один из лучших осенних лесов Англии.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Ashridge_2007-09-01_035.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/A_Forest_of_Foxgloves_at_Ashridge_-_geograph.org.uk_-_1470453.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A_misty_Autumn_day_on_Monument_Green,_Ashridge_-_geograph.org.uk_-_1576065.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.5792,51.8028,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hambleden</name>
+      <styleUrl>#chilterns</styleUrl>
+      <description><![CDATA[
+        <p>Идеальная деревня из кирпича и кремня в долине Темзы — без туристической инфраструктуры, почти нетронута.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Stag_%5E_Huntsman_-_geograph.org.uk_-_7013136.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/A_row_at_Hambleden_-_geograph.org.uk_-_7361413.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Barn%2C_Stag_%5E_Huntsmen_-_geograph.org.uk_-_6985300.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.8792,51.5478,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Burnham Beeches</name>
+      <styleUrl>#chilterns</styleUrl>
+      <description><![CDATA[
+        <p>Древний буковый лес с тысячелетними поллардами — один из старейших управляемых лесов Англии, у Слоу.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Middle_Pond_-_geograph.org.uk_-_600952.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Autumn_in_Burnham_Beeches_-_geograph.org.uk_-_600945.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Autumn_colours_at_Burnham_Beeches_-_geograph.org.uk_-_2684673.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.6536,51.5439,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <!-- Kent -->
+  <Folder>
+    <name>Kent</name>
+
+    <Placemark>
+      <name>Knole Park</name>
+      <styleUrl>#kent</styleUrl>
+      <description><![CDATA[
+        <p>Огромный средневековый deer park в Севеноуксе — вольные олени, древний дворец, 1000 акров леса.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Deer_in_front_of_Knole_Park_-_geograph.org.uk_-_1451418.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/A_Beechen_Slope_Knole_by_Stephen_Thompson_1875.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/A_gate_to_the_walled_garden_at_Knole_-_geograph.org.uk_-_4007880.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.1775,51.2676,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hever Castle</name>
+      <styleUrl>#kent</styleUrl>
+      <description><![CDATA[
+        <p>Замок XIV века в кольце рва — парк с итальянским садом, озером и лабиринтом; место детства Анны Болейн.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Hever_Castle.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/%22Grotto%22_bank%2C_Hever_Gardens_-_geograph.org.uk_-_4877634.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/%22Tudor_Village%22%2C_Hever_Castle_-_geograph.org.uk_-_4877848.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.1190,51.1878,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Scotney Castle</name>
+      <styleUrl>#kent</styleUrl>
+      <description><![CDATA[
+        <p>Романтический руинированный замок XIV века на острове — один из лучших садов National Trust.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Scotney_Castle_and_Garden.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/A_Bridge_and_Gate_at_Scotney_Castle_-_geograph.org.uk_-_75345.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Scotney_Castle_boathouse_%283347391057%29.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.3919,51.0714,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Chiddingstone</name>
+      <styleUrl>#kent</styleUrl>
+      <description><![CDATA[
+        <p>Деревня-музей под открытым небом — единственная целиком сохранившаяся средневековая улица в Кенте.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chiddingstone_Village%2C_Near_Turnbridge_Wells_%28NBY_440043%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Chiddingstone_Village%2C_Near_Turnbridge_Wells_%28NBY_440044%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Castle_Inn%2C_Chiddingstone_-_geograph.org.uk_-_1680897.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.1456,51.1930,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <!-- South Downs -->
+  <Folder>
+    <name>South Downs</name>
+
+    <Placemark>
+      <name>Beachy Head</name>
+      <styleUrl>#southdowns</styleUrl>
+      <description><![CDATA[
+        <p>Самый высокий меловой мыс Англии (162 м) — головокружительный вид на Ла-Манш и маяк внизу.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Beachy_Head%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Along_the_cliffs_towards_Beachy_Head_-_geograph.org.uk_-_426398.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Beach_at_Beachy_Head_-_geograph.org.uk_-_906041.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.2492,50.7366,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Birling Gap</name>
+      <styleUrl>#southdowns</styleUrl>
+      <description><![CDATA[
+        <p>Пляж у подножия белых клиффов — доступ по деревянной лестнице, рок-пулы при отливе.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Birling_Gap.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Beach_and_Cliff_at_Birling_Gap_-_geograph.org.uk_-_3079450.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Cliffs_at_Birling_Gap_-_geograph.org.uk_-_1297420.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.2051,50.7372,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cuckmere Haven</name>
+      <styleUrl>#southdowns</styleUrl>
+      <description><![CDATA[
+        <p>Устье реки Cuckmere с дикими меандрами — одна из самых фотографируемых пейзажных точек Англии.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Cuckmere_haven.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/A_view_across_Cuckmere_Haven_towards_Seaford_Head_-_geograph.org.uk_-_7512534.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anglers%2C_Cuckmere_Haven_-_geograph.org.uk_-_945370.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.1592,50.7354,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Devil's Dyke</name>
+      <styleUrl>#southdowns</styleUrl>
+      <description><![CDATA[
+        <p>Самое глубокое сухое ущелье Великобритании — грандиозный вид на Weald с одной стороны и море с другой.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Devils_Dyke.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Devil%27s_Dyke_-_geograph.org.uk_-_30789.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Devils_Dyke_from_the_air_-_geograph.org.uk_-_3247891.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.2199,50.8793,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Ditchling Beacon</name>
+      <styleUrl>#southdowns</styleUrl>
+      <description><![CDATA[
+        <p>Высшая точка South Downs в этом районе — открытый хребет с видом на Брайтон и пролив.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/D_Beacon_%28N_from_Summit%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/20190223_Ditchling_beacon1.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/20190223_Ditchling_beacon2.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.1133,50.9040,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Alfriston</name>
+      <styleUrl>#southdowns</styleUrl>
+      <description><![CDATA[
+        <p>Средневековая деревня на реке Cuckmere — рыночный крест XIV века, тисовый сад, первое здание National Trust.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Buildings_at_The_Tye%2C_Alfriston_%28September_2011%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/The_House%2C_High_Street%2C_Alfriston_%28NHLE_Code_1043344%29_%28September_2011%29.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Westward_view_along_River_Lane%2C_Alfriston_%28September_2011%29.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.2012,50.8026,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <!-- Thames Valley -->
+  <Folder>
+    <name>Thames Valley</name>
+
+    <Placemark>
+      <name>Virginia Water</name>
+      <styleUrl>#thames</styleUrl>
+      <description><![CDATA[
+        <p>Искусственное озеро 4 км в Windsor Great Park — руины Roman temple, водопад, вирджинские кедры.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Virginia_Water_Lake_1.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/VirginiaWater01.JPG" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/American_Clump_from_Five_Arch_Bridge_-_geograph.org.uk_-_1803094.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.5695,51.4065,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cliveden Estate</name>
+      <styleUrl>#thames</styleUrl>
+      <description><![CDATA[
+        <p>Поместье National Trust над обрывом реки Темзы — сады, гроты, виды на излучину реки.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cliveden-2382.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/An_autumn_afternoon_visit_to_Cliveden_(10)_-_geograph.org.uk_-_8163482.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/An_autumn_afternoon_visit_to_Cliveden_(11)_-_geograph.org.uk_-_8163483.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.7058,51.5581,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cookham</name>
+      <styleUrl>#thames</styleUrl>
+      <description><![CDATA[
+        <p>Темзовая деревня Стэнли Спенсера — луга поймы, галерея художника, прогулки вдоль реки.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Cookham_church%2Cberkshire.JPG" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/%27Thames_Path%27_near_The_Drey_-_geograph.org.uk_-_3415409.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/%27Twixt_Hill_and_River_-_geograph.org.uk_-_1676737.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-0.7181,51.5547,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <!-- Побережье -->
+  <Folder>
+    <name>Побережье</name>
+
+    <Placemark>
+      <name>Dungeness</name>
+      <styleUrl>#coast</styleUrl>
+      <description><![CDATA[
+        <p>Крупнейшая шингловая коса Европы — сюрреалистический пейзаж с рыбацкими хижинами, маяком и АЭС.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Aerial_view_of_Lydd%2C_Kent.JPG" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/%22New%22_lightbouse%2C_Dungeness_%281%29_-_geograph.org.uk_-_5486566.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dungeness_-_geograph.org.uk_-_1404789.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.9769,50.9153,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Botany Bay, Broadstairs</name>
+      <styleUrl>#coast</styleUrl>
+      <description><![CDATA[
+        <p>Пляж с меловыми столбами-стеками — один из живописнейших берегов Кента, уединённый.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Detail_of_Chalk_Stack%2C_Botany_Bay%2C_Beach_in_Broadstairs%2C_Kent.png" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Botany_Bay_-_geograph.org.uk_-_1433201.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Botany_Bay,_Broadstairs_-_geograph.org.uk_-_3153560.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>1.4361,51.3921,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Camber Sands</name>
+      <styleUrl>#coast</styleUrl>
+      <description><![CDATA[
+        <p>Единственные настоящие дюны рядом с Лондоном — 5 км дикого пляжа у Рая.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Camber_Sands_at_Low_Tide.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Beach_front_buildings%2C_Camber_Sands_-_geograph.org.uk_-_1504219.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Beach_front_houses_at_Camber_Sands_-_geograph.org.uk_-_1389067.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.7987,50.9282,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <!-- Особые места -->
+  <Folder>
+    <name>Особые места</name>
+
+    <Placemark>
+      <name>Uffington White Horse</name>
+      <styleUrl>#special</styleUrl>
+      <description><![CDATA[
+        <p>Меловая фигура лошади 3000 лет до н.э. на склоне Berkshire Downs — вид на Vale of White Horse.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/White_horse_from_air.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/A_bit_of_White_Horse_-_geograph.org.uk_-_7387603.jpg" width="400"/><br/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Uffington_White_Horse_-_geograph.org.uk_-_186353.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>-1.5676,51.5782,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Long Man of Wilmington</name>
+      <styleUrl>#special</styleUrl>
+      <description><![CDATA[
+        <p>Меловая фигура человека 70 м на склоне Windover Hill — загадочного происхождения, видна за километры.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/The_Long_Man_of_Wilmington_-_panoramio.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Long_Man_at_Wilmington_taken_from_Car_Park_-_geograph.org.uk_-_2973752.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Long_Man_of_Wilmington_-_geograph.org.uk_-_1133480.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.2083,50.8073,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Ashdown Forest</name>
+      <styleUrl>#special</styleUrl>
+      <description><![CDATA[
+        <p>Вересковая пустошь в Суссексе — прообраз Стоакрового леса Винни-Пуха, открытые виды на Weald.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Ashdown_Forest_View.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/A_Bleak_Morning_on_Ashdown_Forest_-_geograph.org.uk_-_319769.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/A_wet_and_windy_day%2C_Ashdown_Forest._-_geograph.org.uk_-_314986.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.0479,51.0749,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Flatford Mill, Dedham Vale</name>
+      <styleUrl>#special</styleUrl>
+      <description><![CDATA[
+        <p>Мельница на реке Стур из картин Констебла — пейзаж почти не изменился с 1821 года.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Flatford-Mill.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Flatford_-_Flatford_Mill.jpg" width="400"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Flatford_-_Miller%27s_House.jpg" width="400"/>
+      ]]></description>
+      <Point><coordinates>0.9393,51.9639,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
