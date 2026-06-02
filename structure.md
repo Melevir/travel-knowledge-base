@@ -23,6 +23,7 @@
     - seven-sisters-eastbourne.md
     - st-albans.md
     - chichester.md
+    - colchester.md
     - whitstable.md
     - winchester.md
     - Гастингс.md
@@ -89,6 +90,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - colchester.md
     - southend-on-sea.md
     - margate.md
     - arundel.md
