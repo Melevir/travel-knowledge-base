@@ -17,6 +17,7 @@
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
 - [Портсмут](uk/Портсмут.md)
+- [Остров Уайт](uk/isle-of-wight.md)
 - [Корнуолл](uk/корнуолл.md)
 - [Виндзор](uk/windsor.md)
 - [Чичестер](uk/chichester.md)
@@ -49,3 +50,4 @@
 - [Гастингс](checklists/Гастингс.md)
 - [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
 - [Кембридж](checklists/Cambridge.md)
+- [Остров Уайт](checklists/isle-of-wight.md)

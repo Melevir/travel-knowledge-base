@@ -13,6 +13,7 @@
     - Cambridge.md
     - edinburgh.md
     - ely.md
+    - isle-of-wight.md
     - liverpool.md
     - london-day-trips.md
     - oxford.md
@@ -67,6 +68,7 @@
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
     - edinburgh.md
+    - isle-of-wight.md
     - liverpool.md
     - Гастингс.md
     - Рочестер.md
