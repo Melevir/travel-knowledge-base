@@ -26,6 +26,7 @@
     - Рочестер.md
     - корнуолл.md
     - leeds-castle.md
+    - lewes.md
     - stonehenge-salisbury.md
     - борнмут-пул.md
     - бокс-хилл.md
@@ -76,6 +77,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - lewes.md
 
 ---
 
