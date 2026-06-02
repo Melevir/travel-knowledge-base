@@ -15,6 +15,7 @@
     - canterbury.md
     - edinburgh.md
     - ely.md
+    - glastonbury-wells.md
     - henley-on-thames.md
     - hever-castle.md
     - isle-of-wight.md
@@ -92,6 +93,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - glastonbury-wells.md
     - henley-on-thames.md
     - hever-castle.md
     - colchester.md
