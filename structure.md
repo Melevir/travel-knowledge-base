@@ -20,6 +20,7 @@
     - seven-sisters-eastbourne.md
     - st-albans.md
     - chichester.md
+    - colchester.md
     - whitstable.md
     - Гастингс.md
     - Портсмут.md
@@ -76,6 +77,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - colchester.md
 
 ---
 
