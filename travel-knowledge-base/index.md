@@ -35,6 +35,7 @@
 - [Болье и Нью-Форест](uk/болье-нью-форест.md)
 - [Норидж](uk/norwich.md)
 - [Челтнем](uk/челтнем.md)
+- [Хенли-он-Темз](uk/henley-on-thames.md)
 
 ## Пешеходные маршруты по Лондону
 
@@ -49,3 +50,4 @@
 - [Гастингс](checklists/Гастингс.md)
 - [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
 - [Кембридж](checklists/Cambridge.md)
+- [Хенли-он-Темз](checklists/henley-on-thames.md)

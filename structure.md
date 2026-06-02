@@ -13,6 +13,7 @@
     - Cambridge.md
     - edinburgh.md
     - ely.md
+    - henley-on-thames.md
     - liverpool.md
     - london-day-trips.md
     - oxford.md
@@ -76,6 +77,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - henley-on-thames.md
 
 ---
 
