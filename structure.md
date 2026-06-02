@@ -11,6 +11,7 @@
     - blenheim-woodstock.md
     - brighton.md
     - Cambridge.md
+    - canterbury.md
     - edinburgh.md
     - ely.md
     - liverpool.md
@@ -67,6 +68,7 @@
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
     - Cambridge.md
+    - canterbury.md
     - edinburgh.md
     - liverpool.md
     - Гастингс.md
