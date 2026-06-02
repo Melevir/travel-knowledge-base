@@ -23,6 +23,7 @@
     - st-albans.md
     - chichester.md
     - whitstable.md
+    - winchester.md
     - Гастингс.md
     - Портсмут.md
     - Рочестер.md
@@ -84,6 +85,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - winchester.md
 
 ---
 

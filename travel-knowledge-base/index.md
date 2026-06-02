@@ -37,6 +37,7 @@
 - [Болье и Нью-Форест](uk/болье-нью-форест.md)
 - [Норидж](uk/norwich.md)
 - [Челтнем](uk/челтнем.md)
+- [Винчестер](uk/winchester.md)
 - [Стратфорд-апон-Эйвон](uk/stratford-upon-avon.md)
 - [Котсуолдс](uk/котсуолдс.md)
 
@@ -53,6 +54,7 @@
 - [Гастингс](checklists/Гастингс.md)
 - [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
 - [Кембридж](checklists/Cambridge.md)
+- [Винчестер](checklists/winchester.md)
 - [Остров Уайт](checklists/isle-of-wight.md)
 - [Стратфорд-апон-Эйвон](checklists/stratford-upon-avon.md)
 - [Кентербери](checklists/canterbury.md)
