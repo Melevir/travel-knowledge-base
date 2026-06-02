@@ -40,6 +40,7 @@
 | [Болье и Нью-Форест](travel-knowledge-base/uk/болье-нью-форест.md) | ~1 ч 30 мин | National Motor Museum, Palace House, пони Нью-Фореста |
 | [Норидж](travel-knowledge-base/uk/norwich.md) | ~1 ч 50 мин | Норманнский замок, Elm Hill, собор XII в., Colman's Mustard |
 | [Челтнем](travel-knowledge-base/uk/челтнем.md) | ~2 ч 10 мин | Регентская архитектура, Pittville Pump Room, скачки, фестивали |
+| [Хенли-он-Темз](travel-knowledge-base/uk/henley-on-thames.md) | ~45 мин–1 ч | Королевская регата, Темза, Chiltern Hills |
 | [Замок Хивер](travel-knowledge-base/uk/hever-castle.md) | ~1 ч (+ такси/пешком) | Детство Анны Болейн, сады Асторов, лабиринты |
 | [Колчестер](travel-knowledge-base/uk/colchester.md) | ~55 мин | Древнейший город Британии, нормандский замок, римские стены |
 | [Саутенд-он-Си](travel-knowledge-base/uk/southend-on-sea.md) | ~55 мин | Длиннейший пирс в мире, Adventure Island, Old Leigh |
