@@ -40,6 +40,7 @@
 | [Болье и Нью-Форест](travel-knowledge-base/uk/болье-нью-форест.md) | ~1 ч 30 мин | National Motor Museum, Palace House, пони Нью-Фореста |
 | [Норидж](travel-knowledge-base/uk/norwich.md) | ~1 ч 50 мин | Норманнский замок, Elm Hill, собор XII в., Colman's Mustard |
 | [Челтнем](travel-knowledge-base/uk/челтнем.md) | ~2 ч 10 мин | Регентская архитектура, Pittville Pump Room, скачки, фестивали |
+| [Саутенд-он-Си](travel-knowledge-base/uk/southend-on-sea.md) | ~55 мин | Длиннейший пирс в мире, Adventure Island, Old Leigh |
 | [Маргейт](travel-knowledge-base/uk/margate.md) | ~1 ч 30 мин | Turner Contemporary, Dreamland, Shell Grotto, пляжи |
 | [Арундел](travel-knowledge-base/uk/arundel.md) | ~1 ч 20 мин | Замок герцогов Норфолкских, собор, Wetland Centre, тюльпаны |
 | [Льюис](travel-knowledge-base/uk/lewes.md) | ~1 ч 5 мин | Нормандский замок, Bonfire Night, Bloomsbury, Harvey's |
