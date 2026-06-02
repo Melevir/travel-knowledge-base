@@ -35,6 +35,7 @@
 - [Болье и Нью-Форест](uk/болье-нью-форест.md)
 - [Норидж](uk/norwich.md)
 - [Челтнем](uk/челтнем.md)
+- [Саутенд-он-Си](uk/southend-on-sea.md)
 
 ## Пешеходные маршруты по Лондону
 
@@ -49,3 +50,4 @@
 - [Гастингс](checklists/Гастингс.md)
 - [Стоунхендж и Солсбери](checklists/stonehenge-salisbury.md)
 - [Кембридж](checklists/Cambridge.md)
+- [Саутенд-он-Си](checklists/southend-on-sea.md)
