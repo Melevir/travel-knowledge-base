@@ -27,6 +27,7 @@
     - корнуолл.md
     - leeds-castle.md
     - stonehenge-salisbury.md
+    - stratford-upon-avon.md
     - борнмут-пул.md
     - бокс-хилл.md
     - Фолкстон.md
@@ -73,6 +74,7 @@
     - Портсмут.md
     - Корнуолл.md
     - stonehenge-salisbury.md
+    - stratford-upon-avon.md
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
