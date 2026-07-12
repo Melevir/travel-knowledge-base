@@ -51,6 +51,7 @@
 | [Винчестер](travel-knowledge-base/uk/winchester.md) | ~56 мин | Собор, могила Джейн Остин, Круглый стол короля Артура |
 | [Стратфорд-апон-Эйвон](travel-knowledge-base/uk/stratford-upon-avon.md) | ~2 ч 10 мин | Родина Шекспира, RSC, дома Шекспировского треста |
 | [Котсуолдс](travel-knowledge-base/uk/котсуолдс.md) | ~1 ч 35 мин | Honey-stone деревни, Arlington Row, Cotswold Way, пабы с 975 года |
+| [Бродстерс](travel-knowledge-base/uk/Broadstairs.md) | ~1 ч 20–25 мин | Диккенс и Bleak House, Viking Bay, Morelli's Gelato |
 
 ### Сводная таблица всех маршрутов
 

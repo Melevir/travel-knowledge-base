@@ -10,6 +10,7 @@
     - arundel.md
     - bath.md
     - blenheim-woodstock.md
+    - Broadstairs.md
     - brighton.md
     - Cambridge.md
     - canterbury.md
@@ -78,6 +79,7 @@
       - epping-forest.md
 - checklists
     (поисковые чеклисты, создаются автоматически при исследовании города)
+    - Broadstairs.md
     - Cambridge.md
     - canterbury.md
     - edinburgh.md
