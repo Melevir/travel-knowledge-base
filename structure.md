@@ -50,6 +50,7 @@
     - гилфорд.md
     - болье-нью-форест.md
     - norwich.md
+    - Манчестер.md
     - челтнем.md
     - london-walking-routes
       - index.md
@@ -103,6 +104,7 @@
     - margate.md
     - arundel.md
     - lewes.md
+    - Манчестер.md
     - winchester.md
 
 ---

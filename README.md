@@ -52,6 +52,7 @@
 | [Стратфорд-апон-Эйвон](travel-knowledge-base/uk/stratford-upon-avon.md) | ~2 ч 10 мин | Родина Шекспира, RSC, дома Шекспировского треста |
 | [Котсуолдс](travel-knowledge-base/uk/котсуолдс.md) | ~1 ч 35 мин | Honey-stone деревни, Arlington Row, Cotswold Way, пабы с 975 года |
 | [Бродстерс](travel-knowledge-base/uk/Broadstairs.md) | ~1 ч 20–25 мин | Диккенс и Bleak House, Viking Bay, Morelli's Gelato |
+| [Манчестер](travel-knowledge-base/uk/Манчестер.md) | ~2 ч 6 мин–2 ч 46 мин | John Rylands Library, Питерлоо, Madchester, Old Trafford |
 
 ### Сводная таблица всех маршрутов
 
