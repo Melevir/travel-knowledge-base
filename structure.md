@@ -29,6 +29,7 @@
     - st-albans.md
     - chichester.md
     - colchester.md
+    - Dudley.md
     - whitstable.md
     - winchester.md
     - Гастингс.md
@@ -102,6 +103,7 @@
     - henley-on-thames.md
     - hever-castle.md
     - colchester.md
+    - Dudley.md
     - southend-on-sea.md
     - margate.md
     - arundel.md
