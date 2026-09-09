@@ -54,6 +54,7 @@
 | [Бродстерс](travel-knowledge-base/uk/Broadstairs.md) | ~1 ч 20–25 мин | Диккенс и Bleak House, Viking Bay, Morelli's Gelato |
 | [Манчестер](travel-knowledge-base/uk/Манчестер.md) | ~2 ч 6 мин–2 ч 46 мин | John Rylands Library, Питерлоо, Madchester, Old Trafford |
 | [Дадли](travel-knowledge-base/uk/Dudley.md) | ~1 ч 35 мин + автобус | Dudley Zoo and Castle, Black Country Living Museum, Wren's Nest |
+| [Бирмингем](travel-knowledge-base/uk/Birmingham.md) | ~1 ч 16 мин–2 ч | Library of Birmingham, Jewellery Quarter, Balti Triangle, каналы |
 
 ### Сводная таблица всех маршрутов
 

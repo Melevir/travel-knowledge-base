@@ -1,0 +1,53 @@
+# Чеклист исследования: Бирмингем (Birmingham)
+
+- [x] История Birmingham: ключевые даты, основание, средневековый период
+- [x] Индустриальная революция в Birmingham, "город тысячи фабрик" (city of a thousand trades)
+- [x] Джозеф Чемберлен (Joseph Chamberlain) и городские реформы
+- [x] Lunar Society Birmingham (Джеймс Уатт, Эразм Дарвин, Мэттью Боултон)
+- [x] Birmingham pub bombings 1974 — история и память
+- [x] Экономика Birmingham сегодня, крупные работодатели, отрасли
+- [x] Jewellery Quarter — история и современность
+- [x] Автомобилестроение в Birmingham (Longbridge, Austin, Jaguar Land Rover, BSA)
+- [x] Металлообработка и специалитеты производства Birmingham
+- [x] Birmingham Museum & Art Gallery — часы, цены, экспонаты, рейтинг
+- [x] Library of Birmingham — часы, архитектура, цена входа, рейтинг
+- [x] Cadbury World — часы, цены, рейтинг, как добраться
+- [x] ICC (International Convention Centre) и Symphony Hall Birmingham
+- [x] Birmingham Cathedral и другие церкви центра
+- [x] Selfridges Bullring — архитектура здания, история
+- [x] Каналы Birmingham (больше миль канала чем в Венеции) — история и факты
+- [x] Прогулки вдоль каналов Birmingham — маршруты, длина, ориентиры
+- [x] Велосипед в Birmingham — маршруты, прокат
+- [x] Cannon Hill Park — часы, размер, активности
+- [x] Sutton Park — размер, статус национального заповедника, активности
+- [x] Другие парки и зелёные зоны Birmingham
+- [x] Смотровые площадки и панорамные виды Birmingham
+- [x] Хидден джемс Birmingham — нетуристические места
+- [x] Рестораны Birmingham — общий обзор, разные кухни
+- [x] Balti Triangle и карри в Birmingham — история балти, лучшие рестораны
+- [x] Пабы Birmingham — исторические пабы, часы, цены
+- [x] Крафтовые бары Birmingham
+- [x] Независимые кофейни Birmingham
+- [x] Birmingham Bullring Market — история, часы, товары
+- [x] German Christmas Market Birmingham — история, даты, крупнейший в UK
+- [x] Стрит-фуд Birmingham — рынки, фестивали еды
+- [x] Afternoon tea в Birmingham — лучшие места, цены
+- [x] Крафтовое пиво и micropubs Birmingham
+- [x] Sunday Roast в Birmingham — лучшие пабы и гастропабы
+- [x] Вегетарианские и веганские рестораны Birmingham
+- [x] J.R.R. Tolkien и детство в Birmingham — связанные локации
+- [x] Peaky Blinders — связь с Birmingham, локации, история реальных банд
+- [x] Другие фильмы и книги про Birmingham
+- [x] Известные уроженцы Birmingham: Ozzy Osbourne, Black Sabbath
+- [x] Известные уроженцы Birmingham: UB40 и другие музыканты
+- [x] Известные выпускники университетов Birmingham
+- [x] Архитектура Birmingham — викторианский стиль, brutalism
+- [x] Современная архитектура Birmingham (Bullring, Grand Central, небоскрёбы)
+- [x] Бесплатные активности и музеи Birmingham
+- [x] Часы работы и цены ключевых объектов Birmingham (сводно)
+- [x] Проживание в Birmingham — бюджетные и центральные районы/отели
+- [x] Однодневная поездка vs ночёвка в Birmingham
+- [x] Логистика: как добраться из Лондона в Birmingham (поезд, автобус, машина)
+- [x] Транспорт внутри Birmingham — New Street station, метро/трамвай West Midlands Metro
+- [x] Погода в Birmingham по месяцам
+- [x] Фестивали и события Birmingham (Birmingham Pride, литературный фестиваль и др.)
