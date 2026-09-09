@@ -1,0 +1,50 @@
+- [x] История Dudley — происхождение названия и раннее средневековье
+- [x] Dudley в Domesday Book (1086) и норманнский замок
+- [x] История Dudley: XVII–XIX века, промышленная революция
+- [x] История Dudley: XX век, деиндустриализация
+- [x] Экономика Dudley — металлургия и Black Country
+- [x] Экономика Dudley — известь, уголь, стекло (Stourbridge рядом)
+- [x] Современная экономика Dudley — крупные работодатели
+- [x] Dudley Castle — часы работы, цены, рейтинг TripAdvisor
+- [x] Dudley Zoo — часы работы, цены, рейтинг
+- [x] Black Country Living Museum — часы, цены, рейтинг
+- [x] Castle Hill Dudley — смотровая площадка, вид
+- [x] Wren's Nest National Nature Reserve — геология, часы
+- [x] Dudley Priory Park — парк и руины
+- [x] Пешие маршруты в Dudley и окрестностях
+- [x] Велосипедные маршруты Dudley
+- [x] Хидден джемс Dudley
+- [x] Рестораны Dudley — британская кухня
+- [x] Рестораны Dudley — индийская/азиатская кухня
+- [x] Пабы Dudley — исторические (XVIII–XIX века)
+- [x] Крафтовые пабы и micropubs Dudley
+- [x] Независимые кофейни Dudley
+- [x] Dudley Market — рынок, часы, история
+- [x] Стрит-фуд и фестивали еды в Dudley
+- [x] Afternoon tea в Dudley
+- [x] Крафтовое пиво — местные пивоварни (Sadler's и др.)
+- [x] Sunday Roast в Dudley — лучшие пабы
+- [x] Вегетарианская и веганская еда в Dudley
+- [x] Кино и телесериалы, снятые в Dudley
+- [x] Литература, связанная с Dudley и Black Country
+- [x] Duncan Edwards — футболист, уроженец Dudley
+- [x] Другие известные уроженцы Dudley
+- [x] Архитектура Dudley — историческая застройка
+- [x] Приорство Dudley Priory — архитектура руин
+- [x] Исторические события — Dudley в Английской гражданской войне (осада замка)
+- [x] Dudley и Индустриальная революция — роль в мировой истории
+- [x] Бесплатные активности в Dudley
+- [x] Посещение Dudley Castle — детальные часы и цены
+- [x] Посещение Black Country Living Museum — детальные часы и цены
+- [x] Посещение Dudley Zoo — детальные часы и цены
+- [x] Проживание — бюджетные отели Dudley
+- [x] Проживание в центре Dudley
+- [x] Однодневная поездка vs ночёвка в Dudley
+- [x] Логистика — как добраться из Лондона в Dudley
+- [x] Транспорт внутри Dudley — автобусы, Midland Metro (продление линии)
+- [x] Dudley Canal and Tunnel Trust — экскурсии на лодках
+- [x] Dudley Museum & Art Gallery
+- [x] Церкви Dudley — St Edmund's, St Thomas
+- [x] Merry Hill Shopping Centre
+- [x] Ежегодные события и фестивали Dudley
+- [x] Погода в Dudley и лучшее время для визита
