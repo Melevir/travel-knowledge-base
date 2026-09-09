@@ -9,6 +9,7 @@
 - uk
     - arundel.md
     - bath.md
+    - Birmingham.md
     - blenheim-woodstock.md
     - Broadstairs.md
     - brighton.md
@@ -96,6 +97,7 @@
     - walking_routes_london.md
     - Бокс-Хилл.md
     - bath.md
+    - Birmingham.md
     - glastonbury-wells.md
     - henley-on-thames.md
     - hever-castle.md
