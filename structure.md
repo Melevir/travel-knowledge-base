@@ -27,6 +27,7 @@
     - rye.md
     - seven-sisters-eastbourne.md
     - st-albans.md
+    - Stow-on-the-Wold.md
     - chichester.md
     - colchester.md
     - Dudley.md
@@ -94,6 +95,7 @@
     - Корнуолл.md
     - котсуолдс.md
     - stonehenge-salisbury.md
+    - Stow-on-the-Wold.md
     - stratford-upon-avon.md
     - walking_routes_london.md
     - Бокс-Хилл.md
