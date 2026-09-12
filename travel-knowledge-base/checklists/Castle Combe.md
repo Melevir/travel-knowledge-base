@@ -1,0 +1,56 @@
+# Чеклист исследования: Касл-Комб (Castle Combe)
+
+- [x] История Castle Combe: римский период, англосаксы, происхождение названия
+- [x] Замок Castle Combe: норманнская крепость, де Дюнстанвилль, руины
+- [x] Средневековая шерстяная промышленность и ткачество в Castle Combe
+- [x] Сэр Джон Фастольф (Sir John Fastolf) и его связь с Castle Combe
+- [x] Market Cross Castle Combe: история рыночной хартии, архитектура
+- [x] Церковь St Andrew's Castle Combe: история, faceted clock, гробница де Дюнстанвилля
+- [x] By Brook и мост Bybrook Bridge Castle Combe, водяные мельницы
+- [x] Почему Castle Combe называют "самой красивой деревней Англии"
+- [x] Экономика Castle Combe сегодня, население, туризм
+- [x] Cotswold stone и правила застройки Castle Combe (нет антенн, проводов)
+- [x] Castle Combe Circuit: история автодрома, события, билеты
+- [x] Castle Combe Circuit: трек-дни, драйв-экспириенсы, цены
+- [x] The Manor House Hotel Castle Combe: история, рейтинг, цены
+- [x] Гольф-клуб The Manor House Golf Club Castle Combe
+- [x] Castle Combe Skills Centre и картинг
+- [x] Главные достопримечательности Castle Combe: часы, цены, рейтинги
+- [x] Смотровая точка на Castle Combe (классический вид на деревню)
+- [x] Пешие маршруты вокруг Castle Combe: длина, сложность, старт
+- [x] Маршрут Castle Combe – Ford – Long Dean (кольцевой)
+- [x] Macmillan Way и другие дальние тропы через Castle Combe
+- [x] Природа долины By Brook, леса и дикая природа Castle Combe
+- [x] Велосипедные маршруты в районе Castle Combe
+- [x] Рыбалка, верховая езда и другие активности около Castle Combe
+- [x] Хидден джемс Castle Combe: нетуристические места
+- [x] Деревня Ford (Wiltshire) и паб White Hart около Castle Combe
+- [x] Long Dean, Yatton Keynell, Biddestone — соседние деревни
+- [x] Рестораны Castle Combe: обзор, кухни, цены
+- [x] Bybrook Restaurant (Michelin) в Manor House Castle Combe
+- [x] The Castle Inn Castle Combe: история, меню, рейтинг, часы
+- [x] The White Hart Ford: рейтинг, меню, часы
+- [x] Пабы в окрестностях Castle Combe (Biddestone, Grittleton, Nettleton)
+- [x] Кофейни и чайные Castle Combe (Old Rectory Tea Room и др.)
+- [x] Afternoon tea в Castle Combe и окрестностях: цены, бронирование
+- [x] Крафтовое пиво Уилтшира: местные пивоварни (Wadworth, Box Steam, Bath Ales)
+- [x] Micropubs и крафтовые бары рядом с Castle Combe (Chippenham, Bath)
+- [x] Sunday Roast в Castle Combe и окрестностях
+- [x] Вегетарианское и веганское меню в Castle Combe и рядом
+- [x] Рынки и фермерские рынки рядом с Castle Combe (Chippenham, Corsham)
+- [x] Стрит-фуд и фестивали еды в районе Castle Combe
+- [x] Фильмы, снятые в Castle Combe: Doctor Dolittle (1967)
+- [x] Castle Combe в "War Horse" (2011) Спилберга — локации
+- [x] Stardust, The Wolfman, Downton Abbey и другие съёмки в Castle Combe
+- [x] Литература и Castle Combe: упоминания, книги, история деревни
+- [x] Известные жители и уроженцы Castle Combe
+- [x] Архитектура Castle Combe: перпендикулярная готика, weavers' cottages
+- [x] Исторические конфликты: Войны роз, Гражданская война и Castle Combe
+- [x] Бесплатные активности в Castle Combe
+- [x] Парковка в Castle Combe: цены, расположение, ограничения на въезд
+- [x] Как добраться в Castle Combe из Лондона (поезд + такси/автобус)
+- [x] Автобусы и транспорт до Castle Combe из Chippenham и Bath
+- [x] Проживание в Castle Combe: B&B, бюджетные варианты, цены
+- [x] Castle Combe: однодневная поездка vs ночёвка, комбинации с Bath/Lacock
+- [x] Погода в Уилтшире по сезонам, лучшее время для визита Castle Combe
+- [x] Ежегодные события Castle Combe: Christmas, автогонки, open gardens

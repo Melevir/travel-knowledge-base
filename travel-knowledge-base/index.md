@@ -37,6 +37,7 @@
 - [Болье и Нью-Форест](uk/болье-нью-форест.md)
 - [Норидж](uk/norwich.md)
 - [Челтнем](uk/челтнем.md)
+- [Касл-Комб](uk/Castle%20Combe.md)
 - [Хенли-он-Темз](uk/henley-on-thames.md)
 - [Гластонбери + Уэллс](uk/glastonbury-wells.md)
 - [Замок Хивер](uk/hever-castle.md)

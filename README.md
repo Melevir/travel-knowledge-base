@@ -55,6 +55,7 @@
 | [Манчестер](travel-knowledge-base/uk/Манчестер.md) | ~2 ч 6 мин–2 ч 46 мин | John Rylands Library, Питерлоо, Madchester, Old Trafford |
 | [Дадли](travel-knowledge-base/uk/Dudley.md) | ~1 ч 35 мин + автобус | Dudley Zoo and Castle, Black Country Living Museum, Wren's Nest |
 | [Бирмингем](travel-knowledge-base/uk/Birmingham.md) | ~1 ч 16 мин–2 ч | Library of Birmingham, Jewellery Quarter, Balti Triangle, каналы |
+| [Касл-Комб](travel-knowledge-base/uk/Castle%20Combe.md) | ~1 ч 50 мин (поезд + автобус 35) | «Самая красивая деревня Англии», мост через Бай-Брук, автодром |
 
 ### Сводная таблица всех маршрутов
 
