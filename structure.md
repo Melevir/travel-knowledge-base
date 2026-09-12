@@ -15,6 +15,7 @@
     - brighton.md
     - Cambridge.md
     - canterbury.md
+    - Castle Combe.md
     - edinburgh.md
     - ely.md
     - glastonbury-wells.md
@@ -85,6 +86,7 @@
     - Broadstairs.md
     - Cambridge.md
     - canterbury.md
+    - Castle Combe.md
     - edinburgh.md
     - isle-of-wight.md
     - liverpool.md
