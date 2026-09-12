@@ -42,6 +42,7 @@
 | [Челтнем](travel-knowledge-base/uk/челтнем.md) | ~2 ч 10 мин | Регентская архитектура, Pittville Pump Room, скачки, фестивали |
 | [Хенли-он-Темз](travel-knowledge-base/uk/henley-on-thames.md) | ~45 мин–1 ч | Королевская регата, Темза, Chiltern Hills |
 | [Гластонбери + Уэллс](travel-knowledge-base/uk/glastonbury-wells.md) | ~1 ч 30 мин + автобус | Тор, аббатство, легенды Авалона, собор Уэллса |
+| [Уэллс](travel-knowledge-base/uk/Wells,%20Somerset.md) | ~2 ч 20 мин (поезд + автобус) | Самый маленький город Англии, Vicars' Close, часы 1390 года |
 | [Замок Хивер](travel-knowledge-base/uk/hever-castle.md) | ~1 ч (+ такси/пешком) | Детство Анны Болейн, сады Асторов, лабиринты |
 | [Колчестер](travel-knowledge-base/uk/colchester.md) | ~55 мин | Древнейший город Британии, нормандский замок, римские стены |
 | [Саутенд-он-Си](travel-knowledge-base/uk/southend-on-sea.md) | ~55 мин | Длиннейший пирс в мире, Adventure Island, Old Leigh |
