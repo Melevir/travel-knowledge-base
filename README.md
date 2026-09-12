@@ -42,6 +42,7 @@
 | [Челтнем](travel-knowledge-base/uk/челтнем.md) | ~2 ч 10 мин | Регентская архитектура, Pittville Pump Room, скачки, фестивали |
 | [Хенли-он-Темз](travel-knowledge-base/uk/henley-on-thames.md) | ~45 мин–1 ч | Королевская регата, Темза, Chiltern Hills |
 | [Гластонбери + Уэллс](travel-knowledge-base/uk/glastonbury-wells.md) | ~1 ч 30 мин + автобус | Тор, аббатство, легенды Авалона, собор Уэллса |
+| [Уэллс](travel-knowledge-base/uk/Wells,%20Somerset.md) | ~2 ч 20 мин (поезд + автобус) | Самый маленький город Англии, Vicars' Close, часы 1390 года |
 | [Замок Хивер](travel-knowledge-base/uk/hever-castle.md) | ~1 ч (+ такси/пешком) | Детство Анны Болейн, сады Асторов, лабиринты |
 | [Колчестер](travel-knowledge-base/uk/colchester.md) | ~55 мин | Древнейший город Британии, нормандский замок, римские стены |
 | [Саутенд-он-Си](travel-knowledge-base/uk/southend-on-sea.md) | ~55 мин | Длиннейший пирс в мире, Adventure Island, Old Leigh |
@@ -55,6 +56,7 @@
 | [Манчестер](travel-knowledge-base/uk/Манчестер.md) | ~2 ч 6 мин–2 ч 46 мин | John Rylands Library, Питерлоо, Madchester, Old Trafford |
 | [Дадли](travel-knowledge-base/uk/Dudley.md) | ~1 ч 35 мин + автобус | Dudley Zoo and Castle, Black Country Living Museum, Wren's Nest |
 | [Бирмингем](travel-knowledge-base/uk/Birmingham.md) | ~1 ч 16 мин–2 ч | Library of Birmingham, Jewellery Quarter, Balti Triangle, каналы |
+| [Касл-Комб](travel-knowledge-base/uk/Castle%20Combe.md) | ~1 ч 50 мин (поезд + автобус 35) | «Самая красивая деревня Англии», мост через Бай-Брук, автодром |
 | [Стоу-он-де-Уолд](travel-knowledge-base/uk/Stow-on-the-Wold.md) | ~1 ч 30 мин + автобус | «Дверь Толкина», финал Гражданской войны 1646, старейший паб Англии |
 
 ### Сводная таблица всех маршрутов
