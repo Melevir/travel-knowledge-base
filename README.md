@@ -57,6 +57,7 @@
 | [Дадли](travel-knowledge-base/uk/Dudley.md) | ~1 ч 35 мин + автобус | Dudley Zoo and Castle, Black Country Living Museum, Wren's Nest |
 | [Бирмингем](travel-knowledge-base/uk/Birmingham.md) | ~1 ч 16 мин–2 ч | Library of Birmingham, Jewellery Quarter, Balti Triangle, каналы |
 | [Касл-Комб](travel-knowledge-base/uk/Castle%20Combe.md) | ~1 ч 50 мин (поезд + автобус 35) | «Самая красивая деревня Англии», мост через Бай-Брук, автодром |
+| [Стоу-он-де-Уолд](travel-knowledge-base/uk/Stow-on-the-Wold.md) | ~1 ч 30 мин + автобус | «Дверь Толкина», финал Гражданской войны 1646, старейший паб Англии |
 
 ### Сводная таблица всех маршрутов
 
