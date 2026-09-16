@@ -14,7 +14,6 @@
 - [Семь сестёр и Истборн](uk/seven-sisters-eastbourne.md)
 - [Рочестер](uk/Рочестер.md)
 - [Эли](uk/ely.md)
-- [Уэллс](uk/Wells.md)
 - [Бристоль](uk/Bristol.md)
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
@@ -42,6 +41,7 @@
 - [Касл-Комб](uk/Castle%20Combe.md)
 - [Хенли-он-Темз](uk/henley-on-thames.md)
 - [Гластонбери + Уэллс](uk/glastonbury-wells.md)
+- [Уэллс](uk/Wells,%20Somerset.md)
 - [Замок Хивер](uk/hever-castle.md)
 - [Колчестер](uk/colchester.md)
 - [Саутенд-он-Си](uk/southend-on-sea.md)
@@ -55,6 +55,7 @@
 - [Манчестер](uk/Манчестер.md)
 - [Дадли](uk/Dudley.md)
 - [Бирмингем](uk/Birmingham.md)
+- [Стоу-он-де-Уолд](uk/Stow-on-the-Wold.md)
 
 ## Пешеходные маршруты по Лондону
 
@@ -71,6 +72,7 @@
 - [Кембридж](checklists/Cambridge.md)
 - [Хенли-он-Темз](checklists/henley-on-thames.md)
 - [Гластонбери + Уэллс](checklists/glastonbury-wells.md)
+- [Уэллс](checklists/Wells,%20Somerset.md)
 - [Замок Хивер](checklists/hever-castle.md)
 - [Колчестер](checklists/colchester.md)
 - [Саутенд-он-Си](checklists/southend-on-sea.md)
