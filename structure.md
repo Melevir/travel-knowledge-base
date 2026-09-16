@@ -31,6 +31,7 @@
     - chichester.md
     - colchester.md
     - Dudley.md
+    - Wells.md
     - whitstable.md
     - winchester.md
     - Гастингс.md
@@ -111,6 +112,7 @@
     - arundel.md
     - lewes.md
     - Манчестер.md
+    - Wells.md
     - winchester.md
 
 ---

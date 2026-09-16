@@ -16,6 +16,7 @@
 | [Ливерпуль](travel-knowledge-base/uk/liverpool.md) | ~2 ч 10 мин | The Beatles, Albert Dock, музеи |
 | [Сент-Олбанс](travel-knowledge-base/uk/st-albans.md) | ~20 мин | Римский город, нормандский собор |
 | [Эли](travel-knowledge-base/uk/ely.md) | ~1 ч 15 мин | Собор в болотах, дом Кромвеля |
+| [Уэллс](travel-knowledge-base/uk/Wells.md) | ~3 ч | Самый маленький город Англии, собор с scissor arches, «Hot Fuzz» |
 | [Рочестер](travel-knowledge-base/uk/Рочестер.md) | ~35–43 мин | Замок, собор, Диккенс |
 | [Рай](travel-knowledge-base/uk/rye.md) | ~1 ч 30–50 мин | Средневековые улочки, Mermaid Street |
 | [Уитстейбл](travel-knowledge-base/uk/whitstable.md) | ~1 ч 20–30 мин | Устрицы, рыбацкая гавань |
