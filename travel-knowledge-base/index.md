@@ -14,6 +14,7 @@
 - [Семь сестёр и Истборн](uk/seven-sisters-eastbourne.md)
 - [Рочестер](uk/Рочестер.md)
 - [Эли](uk/ely.md)
+- [Бристоль](uk/Bristol.md)
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
 - [Кентербери](uk/canterbury.md)
