@@ -15,6 +15,7 @@
 - [Рочестер](uk/Рочестер.md)
 - [Эли](uk/ely.md)
 - [Уэллс](uk/Wells.md)
+- [Бристоль](uk/Bristol.md)
 - [Рай](uk/rye.md)
 - [Уитстейбл](uk/whitstable.md)
 - [Кентербери](uk/canterbury.md)

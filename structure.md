@@ -11,6 +11,7 @@
     - bath.md
     - Birmingham.md
     - blenheim-woodstock.md
+    - Bristol.md
     - Broadstairs.md
     - brighton.md
     - Cambridge.md
@@ -102,6 +103,7 @@
     - Бокс-Хилл.md
     - bath.md
     - Birmingham.md
+    - Bristol.md
     - glastonbury-wells.md
     - henley-on-thames.md
     - hever-castle.md
